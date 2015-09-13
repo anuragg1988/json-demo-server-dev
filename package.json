@@ -1,0 +1,23 @@
+{
+  "name": "ihotels-demo-server",
+  "version": "1.0.0",
+  "description": "This is a temorary demo server for iHotels",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "demo",
+    "ihotels"
+  ],
+  "author": "anowar",
+  "license": "ISC",
+  "engines": {
+    "node": "0.12.7"
+  },
+  "dependencies": {
+    "clone": "^1.0.2",
+    "express": "^4.13.3",
+    "json-server": "^0.7.28"
+  }
+}
