@@ -1,696 +1,591 @@
 {
-  "maskedHotels": [
-    {
-      "id": "pune"
-    }
-  ],
-  "pimpri": {
-    "id": "pune",
-    "neighborhoodId": "pimpri",
-    "startDate": "2015-09-18T18:05:23",
-    "endDate": "2015-09-28T18:05:23",
-    "hotelList": [
-      {
-        "id": "1001",
-        "likeNames": [
-          {
-            "name": "Clarks",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Paradise",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Mega Star",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          }
-        ],
-        "amenityList": [
-          {
-            "code": "FP",
-            "name": "Free parking",
-            "description": "Property offers complimentary parking for passenger vehicles.",
-            "accessibilityOption": false,
-            "freebie": true
-          },
-          {
-            "code": "PO",
-            "name": "Pool(s)",
-            "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "BC",
-            "name": "Business center",
-            "description": "Guests have access to business equipment and services; an additional charge may apply.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "HS",
-            "name": "Internet access",
-            "description": "Guestrooms are equipped with high-speed Internet access; an extra charge may apply.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "SF",
-            "name": "Spa services",
-            "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "AL",
-            "name": "Accessible path of travel",
-            "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
-            "accessibilityOption": true,
-            "freebie": false
-          },
-          {
-            "code": "AR",
-            "name": "In-room accessibility",
-            "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
-            "accessibilityOption": true,
-            "freebie": false
-          },
-          {
-            "code": "AW",
-            "name": "Wheelchair accessible",
-            "description": "Wheelchair accessible common areas",
-            "accessibilityOption": true,
-            "freebie": false
-          },
-          {
-            "code": "HB",
-            "name": "Accessible bathroom",
-            "description": "Raised toilet, hand-held shower and grab bars at the tub and toilet",
-            "accessibilityOption": true,
-            "freebie": false
-          }
-        ],
-        "photoList": [
-          {
-            "id": "001",
-            "src": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg",
-            "title": "Hotel Entrance",
-            "desc": "This is the grand enterance"
-          },
-          {
-            "id": "002",
-            "src": "http://avadh-lucknow.hotelclarks.com/content/promotions_43292_1.jpg",
-            "title": "Hotel Room",
-            "desc": "This is the room"
-          },
-          {
-            "id": "003",
-            "src": "http://www.cleartrip.com/places/hotels//4254/42549/images/Untitled7_w.jpg",
-            "title": "Hotel Lobby",
-            "desc": "This is the lobby desc"
-          }
-        ],
-        "pricing": {
-          "localCurrencyCode": "INR",
-          "averagePricePerNight": 6585,
-          "strikeThruPrice": 0,
-          "displayPriceType": 0,
-          "displayPrice": 3585,
-          "displayPriceLabel": "",
-          "strikeThruPriceLabel": "",
-          "percentage": null
-        },
-        "starRating": "5",
-        "numOfRoomsLeft": "2"
-      },
-      {
-        "id": "1002",
-        "likeNames": [
-          {
-            "name": "Clarks",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Paradise",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Mega Star",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          }
-        ],
-        "amenityList": [
-          {
-            "code": "FP",
-            "name": "Free parking",
-            "description": "Property offers complimentary parking for passenger vehicles.",
-            "accessibilityOption": false,
-            "freebie": true
-          },
-          {
-            "code": "PO",
-            "name": "Pool(s)",
-            "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "BC",
-            "name": "Business center",
-            "description": "Guests have access to business equipment and services; an additional charge may apply.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "HB",
-            "name": "Accessible bathroom",
-            "description": "Raised toilet, hand-held shower and grab bars at the tub and toilet",
-            "accessibilityOption": true,
-            "freebie": false
-          }
-        ],
-        "photoList": [
-          {
-            "id": "001",
-            "src": "http://www.spacelinedental.com/images/Hotel%20Taj%20Mahal%20Palace%20Mumbai_MyClipta_014.jpg",
-            "title": "Hotel Entrance",
-            "desc": "This is the grand enterance"
-          },
-          {
-            "id": "002",
-            "src": "http://www.cleartrip.com/places/hotels//3304/330402/images/Deluxe_Bay_Room_w.jpg",
-            "title": "Hotel Room",
-            "desc": "This is the room"
-          },
-          {
-            "id": "003",
-            "src": "http://www.bruce-hanna.com/Taj_inside_before.jpg",
-            "title": "Hotel Lobby",
-            "desc": "This is the lobby desc"
-          }
-        ],
-        "pricing": {
-          "localCurrencyCode": "INR",
-          "averagePricePerNight": 8585,
-          "strikeThruPrice": 0,
-          "displayPriceType": 0,
-          "displayPrice": 4585,
-          "displayPriceLabel": "",
-          "strikeThruPriceLabel": "",
-          "percentage": null
-        },
-        "starRating": "5",
-        "numOfRoomsLeft": "4"
-      },
-      {
-        "id": "1003",
-        "likeNames": [
-          {
-            "name": "Clarks",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Paradise",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Mega Star",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          }
-        ],
-        "amenityList": [
-          {
-            "code": "FP",
-            "name": "Free parking",
-            "description": "Property offers complimentary parking for passenger vehicles.",
-            "accessibilityOption": false,
-            "freebie": true
-          },
-          {
-            "code": "PO",
-            "name": "Pool(s)",
-            "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "BC",
-            "name": "Business center",
-            "description": "Guests have access to business equipment and services; an additional charge may apply.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "AL",
-            "name": "Accessible path of travel",
-            "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
-            "accessibilityOption": true,
-            "freebie": false
-          }
-        ],
-        "photoList": [
-          {
-            "id": "001",
-            "src": "http://www.cleartrip.com/places/hotels//1725/172500/images/IMG_8531_w.jpg",
-            "title": "Hotel Entrance",
-            "desc": "This is the grand enterance"
-          },
-          {
-            "id": "002",
-            "src": "http://www.guiademoteis.com.br/imagens/suites/big/1444_big_9498_1.jpg",
-            "title": "Hotel Room",
-            "desc": "This is the room"
-          },
-          {
-            "id": "003",
-            "src": "http://aff.bstatic.com/images/hotel/org/230/2303996.jpg",
-            "title": "Hotel Lobby",
-            "desc": "This is the lobby desc"
-          }
-        ],
-        "pricing": {
-          "localCurrencyCode": "INR",
-          "averagePricePerNight": 5585,
-          "strikeThruPrice": 0,
-          "displayPriceType": 0,
-          "displayPrice": 2385,
-          "displayPriceLabel": "",
-          "strikeThruPriceLabel": "",
-          "percentage": null
-        },
-        "starRating": "4",
-        "numOfRoomsLeft": "7"
-      },
-      {
-        "id": "1004",
-        "likeNames": [
-          {
-            "name": "Clarks",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Paradise",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Mega Star",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          }
-        ],
-        "amenityList": [
-          {
-            "code": "FP",
-            "name": "Free parking",
-            "description": "Property offers complimentary parking for passenger vehicles.",
-            "accessibilityOption": false,
-            "freebie": true
-          },
-          {
-            "code": "PO",
-            "name": "Pool(s)",
-            "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "BC",
-            "name": "Business center",
-            "description": "Guests have access to business equipment and services; an additional charge may apply.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "AW",
-            "name": "Wheelchair accessible",
-            "description": "Wheelchair accessible common areas",
-            "accessibilityOption": true,
-            "freebie": false
-          }
-        ],
-        "photoList": [
-          {
-            "id": "001",
-            "src": "http://www.cleartrip.com/places/hotels//7167/716705/images/Exterior_View_At_Night_w.jpg",
-            "title": "Hotel Entrance",
-            "desc": "This is the grand enterance"
-          },
-          {
-            "id": "002",
-            "src": "http://images2.travbuddy.com/hotel_58658481.jpg",
-            "title": "Hotel Room",
-            "desc": "This is the room"
-          },
-          {
-            "id": "003",
-            "src": "https://gos3.ibcdn.com/hotel-le-castle-rudrapur-restaurant-32791570fs.jpg",
-            "title": "Hotel Lobby",
-            "desc": "This is the lobby desc"
-          }
-        ],
-        "pricing": {
-          "localCurrencyCode": "INR",
-          "averagePricePerNight": 5435,
-          "strikeThruPrice": 0,
-          "displayPriceType": 0,
-          "displayPrice": 3215,
-          "displayPriceLabel": "",
-          "strikeThruPriceLabel": "",
-          "percentage": null
-        },
-        "starRating": "4",
-        "numOfRoomsLeft": "1"
-      },
-      {
-        "id": "1005",
-        "likeNames": [
-          {
-            "name": "Clarks",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Paradise",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Mega Star",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          }
-        ],
-        "amenityList": [
-          {
-            "code": "FP",
-            "name": "Free parking",
-            "description": "Property offers complimentary parking for passenger vehicles.",
-            "accessibilityOption": false,
-            "freebie": true
-          },
-          {
-            "code": "PO",
-            "name": "Pool(s)",
-            "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "BC",
-            "name": "Business center",
-            "description": "Guests have access to business equipment and services; an additional charge may apply.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "AR",
-            "name": "In-room accessibility",
-            "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
-            "accessibilityOption": true,
-            "freebie": false
-          }
-        ],
-        "photoList": [
-          {
-            "id": "001",
-            "src": "http://aff.bstatic.com/images/hotel/org/420/4203690.jpg",
-            "title": "Hotel Entrance",
-            "desc": "This is the grand enterance"
-          },
-          {
-            "id": "002",
-            "src": "http://www.cleartrip.com/places/hotels//1598/159892/images/room2_w.jpg",
-            "title": "Hotel Room",
-            "desc": "This is the room"
-          },
-          {
-            "id": "003",
-            "src": "http://www.shirdihotels.net.in/wp-content/uploads/2012/01/St.Laurn-Meditation-and-Spa-Shirdi-3.jpg",
-            "title": "Hotel Lobby",
-            "desc": "This is the lobby desc"
-          }
-        ],
-        "pricing": {
-          "localCurrencyCode": "INR",
-          "averagePricePerNight": 8505,
-          "strikeThruPrice": 0,
-          "displayPriceType": 0,
-          "displayPrice": 6585,
-          "displayPriceLabel": "",
-          "strikeThruPriceLabel": "",
-          "percentage": null
-        },
-        "starRating": "5",
-        "numOfRoomsLeft": "7"
-      },
-      {
-        "id": "1006",
-        "likeNames": [
-          {
-            "name": "Clarks",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Paradise",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          },
-          {
-            "name": "Mega Star",
-            "image": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
-          }
-        ],
-        "amenityList": [
-          {
-            "code": "FP",
-            "name": "Free parking",
-            "description": "Property offers complimentary parking for passenger vehicles.",
-            "accessibilityOption": false,
-            "freebie": true
-          },
-          {
-            "code": "PO",
-            "name": "Pool(s)",
-            "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "BC",
-            "name": "Business center",
-            "description": "Guests have access to business equipment and services; an additional charge may apply.",
-            "accessibilityOption": false,
-            "freebie": false
-          }
-        ],
-        "photoList": [
-          {
-            "id": "001",
-            "src": "https://exp.cdn-hotels.com/hotels/1000000/30000/26000/25968/25968_69_b.jpg",
-            "title": "Hotel Entrance",
-            "desc": "This is the grand enterance"
-          },
-          {
-            "id": "002",
-            "src": "http://www.phoenixhotel-kl.com/images/hotel_acc-big.jpg",
-            "title": "Hotel Room",
-            "desc": "This is the room"
-          },
-          {
-            "id": "003",
-            "src": "http://media-cdn.tripadvisor.com/media/photo-s/02/d7/6b/11/the-phoenix-hotel-yogyakarta.jpg",
-            "title": "Hotel Lobby",
-            "desc": "This is the lobby desc"
-          }
-        ],
-        "pricing": {
-          "localCurrencyCode": "INR",
-          "averagePricePerNight": 7505,
-          "strikeThruPrice": 0,
-          "displayPriceType": 0,
-          "displayPrice": 3585,
-          "displayPriceLabel": "",
-          "strikeThruPriceLabel": "",
-          "percentage": null
-        },
-        "starRating": "4",
-        "numOfRoomsLeft": "8"
-      },
-      {
-        "id": "1007",
-        "name": "Lemon Tree",
-        "amenityList": [
-          {
-            "code": "FP",
-            "name": "Free parking",
-            "description": "Property offers complimentary parking for passenger vehicles.",
-            "accessibilityOption": false,
-            "freebie": true
-          },
-          {
-            "code": "PO",
-            "name": "Pool(s)",
-            "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
-            "accessibilityOption": false,
-            "freebie": false
-          },
-          {
-            "code": "BC",
-            "name": "Business center",
-            "description": "Guests have access to business equipment and services; an additional charge may apply.",
-            "accessibilityOption": false,
-            "freebie": false
-          }
-        ],
-        "photoList": [
-          {
-            "id": "001",
-            "src": "http://blessingsonthenet.com/img/uploads/hotels/aim_bn_1308932466.jpg",
-            "title": "Hotel Entrance",
-            "desc": "This is the grand enterance"
-          },
-          {
-            "id": "002",
-            "src": "https://gos3.ibcdn.com/lemon-tree-hotel-indore-indore-deluxe-room-28030264fs.jpg",
-            "title": "Hotel Room",
-            "desc": "This is the room"
-          },
-          {
-            "id": "003",
-            "src": "http://media-cdn.tripadvisor.com/media/photo-s/01/f5/8a/b1/lemon-tree-hotel-indore.jpg",
-            "title": "Hotel Lobby",
-            "desc": "This is the lobby desc"
-          }
-        ],
-        "pricing": {
-          "localCurrencyCode": "INR",
-          "averagePricePerNight": 6795,
-          "strikeThruPrice": 0,
-          "displayPriceType": 0,
-          "displayPrice": 4585,
-          "displayPriceLabel": "",
-          "strikeThruPriceLabel": "",
-          "percentage": null
-        },
-        "starRating": "4",
-        "numOfRoomsLeft": "8"
-      }
-    ]
-  },
-  "validCities": {
-    "validCityList": [
-      "Pune",
-      "Mumbai",
-      "Goa"
-    ],
-    "validCityMap": {
-      "pune": {
-        "name": "Pune",
+    "maskedHotels": [{
+        "id": "pune"
+    }],
+    "pimpri": {
         "id": "pune",
-        "centroid": {
-          "latitude": "18.6065",
-          "longitude": "73.7854"
-        },
-        "zoomLevel": "15",
-        "state": "Maharashtra",
-        "country": "IN",
-        "neighborhoods": [
-          {
-            "name": "Primpi Chinchwad - Mahalunge - Hinjewadi",
-            "id": "pimpri",
-            "shape": [
-              {
-                "latitude": "18.62871679687498",
-                "longitude": "73.75731238389756"
-              },
-              {
-                "latitude": "18.61646457356773",
-                "longitude": "73.74063321397568"
-              },
-              {
-                "latitude": "18.60284683051214",
-                "longitude": "73.7220951388889"
-              },
-              {
-                "latitude": "18.60175236979165",
-                "longitude": "73.72143846137152"
-              },
-              {
-                "latitude": "18.60022012369791",
-                "longitude": "73.72143846137152"
-              },
-              {
-                "latitude": "18.58742726671005",
-                "longitude": "73.72544069661456"
-              },
-              {
-                "latitude": "18.56939660698782",
-                "longitude": "73.7310815733507"
-              },
-              {
-                "latitude": "18.56103840060763",
-                "longitude": "73.73369643120662"
-              },
-              {
-                "latitude": "18.55928726128474",
-                "longitude": "73.73566646158855"
-              },
-              {
-                "latitude": "18.55863058485244",
-                "longitude": "73.73654203125"
-              },
-              {
-                "latitude": "18.56242388888887",
-                "longitude": "73.75331431206598"
-              },
-              {
-                "latitude": "18.56828222222219",
-                "longitude": "73.7792172222222"
-              },
-              {
-                "latitude": "18.59715563042533",
-                "longitude": "73.83810806098091"
-              },
-              {
-                "latitude": "18.6039412923177",
-                "longitude": "73.84511261501734"
-              },
-              {
-                "latitude": "18.60861043294273",
-                "longitude": "73.84646420789932"
-              },
-              {
-                "latitude": "18.62057710720484",
-                "longitude": "73.84992824652778"
-              },
-              {
-                "latitude": "18.62189046115452",
-                "longitude": "73.84970935329864"
-              },
-              {
-                "latitude": "18.62342270724827",
-                "longitude": "73.84839599934895"
-              },
-              {
-                "latitude": "18.6547243077257",
-                "longitude": "73.8227856000434"
-              },
-              {
-                "latitude": "18.65516209201388",
-                "longitude": "73.82059667643227"
-              },
-              {
-                "latitude": "18.65460965386285",
-                "longitude": "73.81554303710936"
-              },
-              {
-                "latitude": "18.65377719292536",
-                "longitude": "73.80792778971352"
-              },
-              {
-                "latitude": "18.62871679687498",
-                "longitude": "73.75731238389756"
-              }
-            ]
-          }
-        ]
-      }
+        "neighborhoodId": "pimpri",
+        "startDate": "2015-09-20",
+        "endDate": "2015-09-22",
+        "hotelList": [{
+            "id": "1001",
+            "hotelsInCategory": [{
+                "hotelName": "Clarks",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Paradise",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Mega Star",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }],
+            "amenityList": [{
+                "code": "FP",
+                "name": "Free parking",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "accessibilityOption": false,
+                "freebie": true
+            }, {
+                "code": "PO",
+                "name": "Pool(s)",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "BC",
+                "name": "Business center",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "HS",
+                "name": "Internet access",
+                "description": "Guestrooms are equipped with high-speed Internet access; an extra charge may apply.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "SF",
+                "name": "Spa services",
+                "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "AL",
+                "name": "Accessible path of travel",
+                "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                "accessibilityOption": true,
+                "freebie": false
+            }, {
+                "code": "AR",
+                "name": "In-room accessibility",
+                "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
+                "accessibilityOption": true,
+                "freebie": false
+            }, {
+                "code": "AW",
+                "name": "Wheelchair accessible",
+                "description": "Wheelchair accessible common areas",
+                "accessibilityOption": true,
+                "freebie": false
+            }, {
+                "code": "HB",
+                "name": "Accessible bathroom",
+                "description": "Raised toilet, hand-held shower and grab bars at the tub and toilet",
+                "accessibilityOption": true,
+                "freebie": false
+            }],
+            "photoList": [{
+                "url": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg",
+                "title": "Hotel Entrance",
+                "description": "This is the grand enterance",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://avadh-lucknow.hotelclarks.com/content/promotions_43292_1.jpg",
+                "title": "Hotel Room",
+                "description": "This is the room",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://www.cleartrip.com/places/hotels//4254/42549/images/Untitled7_w.jpg",
+                "title": "Hotel Lobby",
+                "description": "This is the lobby desc",
+                "dateAdded": "2014-10-20"
+            }],
+            "pricing": {
+                "tripTotal": "10755",
+                "localCurrencyCode": "INR",
+                "averagePricePerNight": "6585",
+                "strikeThruPrice": "0",
+                "displayPrice": "3585",
+                "dailyRate": "3585",
+                "numberOfNights": "3",
+                "taxesAndFees": "1500",
+                "percentage": "40",
+                "isCheapest": false,
+                "isBest": true
+            },
+            "starRating": "5",
+            "numOfRoomsLeft": "2"
+        }, {
+            "id": "1002",
+            "hotelsInCategory": [{
+                "hotelName": "Clarks",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Paradise",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Mega Star",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }],
+            "amenityList": [{
+                "code": "FP",
+                "name": "Free parking",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "accessibilityOption": false,
+                "freebie": true
+            }, {
+                "code": "PO",
+                "name": "Pool(s)",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "BC",
+                "name": "Business center",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "HB",
+                "name": "Accessible bathroom",
+                "description": "Raised toilet, hand-held shower and grab bars at the tub and toilet",
+                "accessibilityOption": true,
+                "freebie": false
+            }],
+            "photoList": [{
+                "url": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg",
+                "title": "Hotel Entrance",
+                "description": "This is the grand enterance",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://avadh-lucknow.hotelclarks.com/content/promotions_43292_1.jpg",
+                "title": "Hotel Room",
+                "description": "This is the room",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://www.cleartrip.com/places/hotels//4254/42549/images/Untitled7_w.jpg",
+                "title": "Hotel Lobby",
+                "description": "This is the lobby desc",
+                "dateAdded": "2014-10-20"
+            }],
+            "pricing": {
+                "tripTotal": "10755",
+                "localCurrencyCode": "INR",
+                "averagePricePerNight": "6585",
+                "strikeThruPrice": "0",
+                "displayPrice": "3585",
+                "dailyRate": "3585",
+                "numberOfNights": "3",
+                "taxesAndFees": "1500",
+                "percentage": "40",
+                "isCheapest": false,
+                "isBest": true
+            },
+            "starRating": "5",
+            "numOfRoomsLeft": "4"
+        }, {
+            "id": "1003",
+            "hotelsInCategory": [{
+                "hotelName": "Clarks",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Paradise",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Mega Star",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }],
+            "amenityList": [{
+                "code": "FP",
+                "name": "Free parking",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "accessibilityOption": false,
+                "freebie": true
+            }, {
+                "code": "PO",
+                "name": "Pool(s)",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "BC",
+                "name": "Business center",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "AL",
+                "name": "Accessible path of travel",
+                "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                "accessibilityOption": true,
+                "freebie": false
+            }],
+            "photoList": [{
+                "url": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg",
+                "title": "Hotel Entrance",
+                "description": "This is the grand enterance",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://avadh-lucknow.hotelclarks.com/content/promotions_43292_1.jpg",
+                "title": "Hotel Room",
+                "description": "This is the room",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://www.cleartrip.com/places/hotels//4254/42549/images/Untitled7_w.jpg",
+                "title": "Hotel Lobby",
+                "description": "This is the lobby desc",
+                "dateAdded": "2014-10-20"
+            }],
+            "pricing": {
+                "tripTotal": "10755",
+                "localCurrencyCode": "INR",
+                "averagePricePerNight": "6585",
+                "strikeThruPrice": "0",
+                "displayPrice": "3585",
+                "dailyRate": "3585",
+                "numberOfNights": "3",
+                "taxesAndFees": "1500",
+                "percentage": "40",
+                "isCheapest": false,
+                "isBest": true
+            },
+            "starRating": "4",
+            "numOfRoomsLeft": "7"
+        }, {
+            "id": "1004",
+            "hotelsInCategory": [{
+                "hotelName": "Clarks",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Paradise",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Mega Star",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }],
+            "amenityList": [{
+                "code": "FP",
+                "name": "Free parking",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "accessibilityOption": false,
+                "freebie": true
+            }, {
+                "code": "PO",
+                "name": "Pool(s)",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "BC",
+                "name": "Business center",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "AW",
+                "name": "Wheelchair accessible",
+                "description": "Wheelchair accessible common areas",
+                "accessibilityOption": true,
+                "freebie": false
+            }],
+            "photoList": [{
+                "url": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg",
+                "title": "Hotel Entrance",
+                "description": "This is the grand enterance",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://avadh-lucknow.hotelclarks.com/content/promotions_43292_1.jpg",
+                "title": "Hotel Room",
+                "description": "This is the room",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://www.cleartrip.com/places/hotels//4254/42549/images/Untitled7_w.jpg",
+                "title": "Hotel Lobby",
+                "description": "This is the lobby desc",
+                "dateAdded": "2014-10-20"
+            }],
+            "pricing": {
+                "tripTotal": "10755",
+                "localCurrencyCode": "INR",
+                "averagePricePerNight": "6585",
+                "strikeThruPrice": "0",
+                "displayPrice": "3585",
+                "dailyRate": "3585",
+                "numberOfNights": "3",
+                "taxesAndFees": "1500",
+                "percentage": "40",
+                "isCheapest": false,
+                "isBest": true
+            },
+            "starRating": "4",
+            "numOfRoomsLeft": "1"
+        }, {
+            "id": "1005",
+            "hotelsInCategory": [{
+                "hotelName": "Clarks",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Paradise",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Mega Star",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }],
+            "amenityList": [{
+                "code": "FP",
+                "name": "Free parking",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "accessibilityOption": false,
+                "freebie": true
+            }, {
+                "code": "PO",
+                "name": "Pool(s)",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "BC",
+                "name": "Business center",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "AR",
+                "name": "In-room accessibility",
+                "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
+                "accessibilityOption": true,
+                "freebie": false
+            }],
+            "photoList": [{
+                "url": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg",
+                "title": "Hotel Entrance",
+                "description": "This is the grand enterance",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://avadh-lucknow.hotelclarks.com/content/promotions_43292_1.jpg",
+                "title": "Hotel Room",
+                "description": "This is the room",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://www.cleartrip.com/places/hotels//4254/42549/images/Untitled7_w.jpg",
+                "title": "Hotel Lobby",
+                "description": "This is the lobby desc",
+                "dateAdded": "2014-10-20"
+            }],
+            "pricing": {
+                "tripTotal": "10755",
+                "localCurrencyCode": "INR",
+                "averagePricePerNight": "6585",
+                "strikeThruPrice": "0",
+                "displayPrice": "3585",
+                "dailyRate": "3585",
+                "numberOfNights": "3",
+                "taxesAndFees": "1500",
+                "percentage": "40",
+                "isCheapest": false,
+                "isBest": true
+            },
+            "starRating": "5",
+            "numOfRoomsLeft": "7"
+        }, {
+            "id": "1006",
+            "hotelsInCategory": [{
+                "hotelName": "Clarks",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Paradise",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }, {
+                "hotelName": "Mega Star",
+                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+            }],
+            "amenityList": [{
+                "code": "FP",
+                "name": "Free parking",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "accessibilityOption": false,
+                "freebie": true
+            }, {
+                "code": "PO",
+                "name": "Pool(s)",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "BC",
+                "name": "Business center",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "accessibilityOption": false,
+                "freebie": false
+            }],
+            "photoList": [{
+                "url": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg",
+                "title": "Hotel Entrance",
+                "description": "This is the grand enterance",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://avadh-lucknow.hotelclarks.com/content/promotions_43292_1.jpg",
+                "title": "Hotel Room",
+                "description": "This is the room",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://www.cleartrip.com/places/hotels//4254/42549/images/Untitled7_w.jpg",
+                "title": "Hotel Lobby",
+                "description": "This is the lobby desc",
+                "dateAdded": "2014-10-20"
+            }],
+            "pricing": {
+                "tripTotal": "10755",
+                "localCurrencyCode": "INR",
+                "averagePricePerNight": "6585",
+                "strikeThruPrice": "0",
+                "displayPrice": "3585",
+                "dailyRate": "3585",
+                "numberOfNights": "3",
+                "taxesAndFees": "1500",
+                "percentage": "40",
+                "isCheapest": false,
+                "isBest": true
+            },
+            "starRating": "4",
+            "numOfRoomsLeft": "8"
+        }, {
+            "id": "1007",
+            "name": "Lemon Tree",
+            "amenityList": [{
+                "code": "FP",
+                "name": "Free parking",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "accessibilityOption": false,
+                "freebie": true
+            }, {
+                "code": "PO",
+                "name": "Pool(s)",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "accessibilityOption": false,
+                "freebie": false
+            }, {
+                "code": "BC",
+                "name": "Business center",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "accessibilityOption": false,
+                "freebie": false
+            }],
+            "photoList": [{
+                "url": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg",
+                "title": "Hotel Entrance",
+                "description": "This is the grand enterance",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://avadh-lucknow.hotelclarks.com/content/promotions_43292_1.jpg",
+                "title": "Hotel Room",
+                "description": "This is the room",
+                "dateAdded": "2014-10-20"
+            }, {
+                "url": "http://www.cleartrip.com/places/hotels//4254/42549/images/Untitled7_w.jpg",
+                "title": "Hotel Lobby",
+                "description": "This is the lobby desc",
+                "dateAdded": "2014-10-20"
+            }],
+            "pricing": {
+                "tripTotal": "10755",
+                "localCurrencyCode": "INR",
+                "averagePricePerNight": "6585",
+                "strikeThruPrice": "0",
+                "displayPrice": "3585",
+                "dailyRate": "3585",
+                "numberOfNights": "3",
+                "taxesAndFees": "1500",
+                "percentage": "40",
+                "isCheapest": false,
+                "isBest": true
+            },
+            "starRating": "4",
+            "numOfRoomsLeft": "8"
+        }]
+    },
+    "validCities": {
+        "validCityList": [
+            "Pune",
+            "Mumbai",
+            "Goa"
+        ],
+        "validCityMap": {
+            "pune": {
+                "name": "Pune",
+                "id": "pune",
+                "centroid": {
+                    "latitude": "18.6065",
+                    "longitude": "73.7854"
+                },
+                "zoomLevel": "15",
+                "state": "Maharashtra",
+                "country": "IN",
+                "neighborhoods": [{
+                    "name": "Primpi Chinchwad - Mahalunge - Hinjewadi",
+                    "id": "pimpri",
+                    "shape": [{
+                        "latitude": "18.62871679687498",
+                        "longitude": "73.75731238389756"
+                    }, {
+                        "latitude": "18.61646457356773",
+                        "longitude": "73.74063321397568"
+                    }, {
+                        "latitude": "18.60284683051214",
+                        "longitude": "73.7220951388889"
+                    }, {
+                        "latitude": "18.60175236979165",
+                        "longitude": "73.72143846137152"
+                    }, {
+                        "latitude": "18.60022012369791",
+                        "longitude": "73.72143846137152"
+                    }, {
+                        "latitude": "18.58742726671005",
+                        "longitude": "73.72544069661456"
+                    }, {
+                        "latitude": "18.56939660698782",
+                        "longitude": "73.7310815733507"
+                    }, {
+                        "latitude": "18.56103840060763",
+                        "longitude": "73.73369643120662"
+                    }, {
+                        "latitude": "18.55928726128474",
+                        "longitude": "73.73566646158855"
+                    }, {
+                        "latitude": "18.55863058485244",
+                        "longitude": "73.73654203125"
+                    }, {
+                        "latitude": "18.56242388888887",
+                        "longitude": "73.75331431206598"
+                    }, {
+                        "latitude": "18.56828222222219",
+                        "longitude": "73.7792172222222"
+                    }, {
+                        "latitude": "18.59715563042533",
+                        "longitude": "73.83810806098091"
+                    }, {
+                        "latitude": "18.6039412923177",
+                        "longitude": "73.84511261501734"
+                    }, {
+                        "latitude": "18.60861043294273",
+                        "longitude": "73.84646420789932"
+                    }, {
+                        "latitude": "18.62057710720484",
+                        "longitude": "73.84992824652778"
+                    }, {
+                        "latitude": "18.62189046115452",
+                        "longitude": "73.84970935329864"
+                    }, {
+                        "latitude": "18.62342270724827",
+                        "longitude": "73.84839599934895"
+                    }, {
+                        "latitude": "18.6547243077257",
+                        "longitude": "73.8227856000434"
+                    }, {
+                        "latitude": "18.65516209201388",
+                        "longitude": "73.82059667643227"
+                    }, {
+                        "latitude": "18.65460965386285",
+                        "longitude": "73.81554303710936"
+                    }, {
+                        "latitude": "18.65377719292536",
+                        "longitude": "73.80792778971352"
+                    }, {
+                        "latitude": "18.62871679687498",
+                        "longitude": "73.75731238389756"
+                    }]
+                }]
+            }
+        }
     }
-  }
 }
