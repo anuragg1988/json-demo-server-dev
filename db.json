@@ -11,13 +11,13 @@
             "id": "1001",
             "hotelsInCategory": [{
                 "hotelName": "Clarks",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Paradise",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Mega Star",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }],
             "amenityList": [{
                 "code": "FP",
@@ -109,13 +109,13 @@
             "id": "1002",
             "hotelsInCategory": [{
                 "hotelName": "Clarks",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Paradise",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Mega Star",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }],
             "amenityList": [{
                 "code": "FP",
@@ -177,13 +177,13 @@
             "id": "1003",
             "hotelsInCategory": [{
                 "hotelName": "Clarks",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Paradise",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Mega Star",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }],
             "amenityList": [{
                 "code": "FP",
@@ -245,13 +245,13 @@
             "id": "1004",
             "hotelsInCategory": [{
                 "hotelName": "Clarks",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Paradise",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Mega Star",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }],
             "amenityList": [{
                 "code": "FP",
@@ -313,13 +313,13 @@
             "id": "1005",
             "hotelsInCategory": [{
                 "hotelName": "Clarks",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Paradise",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Mega Star",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }],
             "amenityList": [{
                 "code": "FP",
@@ -381,13 +381,13 @@
             "id": "1006",
             "hotelsInCategory": [{
                 "hotelName": "Clarks",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Paradise",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }, {
                 "hotelName": "Mega Star",
-                "singelImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
+                "primaryImage": "http://avadh-lucknow.hotelclarks.com/content/content_4760_1.jpg"
             }],
             "amenityList": [{
                 "code": "FP",
