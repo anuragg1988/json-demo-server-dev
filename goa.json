@@ -1,0 +1,1135 @@
+{
+    "content": {
+        "neighborhoods": {
+            "neighborhood": [{
+                "id": 94285,
+                "longDesc": null,
+                "shortDesc": "Beach, Relaxing, Secluded, Hilly, Temples, Gardens, Fishing, Bars, Sea, Spas",
+                "teaser": null
+            }]
+        },
+        "type": "text/html"
+    },
+    "destinationLocationMatches": null,
+    "echoToken": null,
+    "errors": null,
+    "metaData": {
+        "defaultImageURL": null,
+        "neighborhoods": {
+            "neighborhood": [{
+                "centroid": {
+                    "latitude": 15.2913,
+                    "longitude": 73.9178
+                },
+                "city": "Marmagao",
+                "cityId": 182558,
+                "country": "IN",
+                "description": null,
+                "id": 94285,
+                "imageUrls": null,
+                "name": "Mormugao - Salcete",
+                "neighborhoodType": "EXPANDED",
+                "shape": {
+                    "latLong": [{
+                        "latitude": 15.41351944444438,
+                        "longitude": 73.81038055555547
+                    }, {
+                        "latitude": 15.42253499999993,
+                        "longitude": 73.79034666666661
+                    }, {
+                        "latitude": 15.42203388888885,
+                        "longitude": 73.7858388888888
+                    }, {
+                        "latitude": 15.41952999999995,
+                        "longitude": 73.78183166666662
+                    }, {
+                        "latitude": 15.41502222222215,
+                        "longitude": 73.77832611111103
+                    }, {
+                        "latitude": 15.40800999999993,
+                        "longitude": 73.77932777777772
+                    }, {
+                        "latitude": 15.4045044444444,
+                        "longitude": 73.78333444444439
+                    }, {
+                        "latitude": 15.39899499999996,
+                        "longitude": 73.7883427777777
+                    }, {
+                        "latitude": 15.39098111111105,
+                        "longitude": 73.79234999999994
+                    }, {
+                        "latitude": 15.38697444444438,
+                        "longitude": 73.79635666666661
+                    }, {
+                        "latitude": 15.38346833333327,
+                        "longitude": 73.80136499999992
+                    }, {
+                        "latitude": 15.37595555555549,
+                        "longitude": 73.80336888888883
+                    }, {
+                        "latitude": 15.36994499999997,
+                        "longitude": 73.80687444444436
+                    }, {
+                        "latitude": 15.3624322222222,
+                        "longitude": 73.81989666666658
+                    }, {
+                        "latitude": 15.3569227777777,
+                        "longitude": 73.83341999999993
+                    }, {
+                        "latitude": 15.35441888888886,
+                        "longitude": 73.84644222222215
+                    }, {
+                        "latitude": 15.35241499999995,
+                        "longitude": 73.8579616666666
+                    }, {
+                        "latitude": 15.34890944444442,
+                        "longitude": 73.86797888888884
+                    }, {
+                        "latitude": 15.34239833333328,
+                        "longitude": 73.87499111111106
+                    }, {
+                        "latitude": 15.14105444444436,
+                        "longitude": 73.9295844444444
+                    }, {
+                        "latitude": 15.13604555555548,
+                        "longitude": 73.9320883333333
+                    }, {
+                        "latitude": 15.13253944444438,
+                        "longitude": 73.93359111111107
+                    }, {
+                        "latitude": 15.12753111111107,
+                        "longitude": 73.93910055555551
+                    }, {
+                        "latitude": 15.12753111111107,
+                        "longitude": 73.9491177777777
+                    }, {
+                        "latitude": 15.12803222222215,
+                        "longitude": 73.96163888888884
+                    }, {
+                        "latitude": 15.13003555555548,
+                        "longitude": 73.96564555555551
+                    }, {
+                        "latitude": 15.13504388888885,
+                        "longitude": 73.96865111111106
+                    }, {
+                        "latitude": 15.33284222222216,
+                        "longitude": 73.98814999999996
+                    }, {
+                        "latitude": 15.33928999999995,
+                        "longitude": 73.98852888888882
+                    }, {
+                        "latitude": 15.34270388888882,
+                        "longitude": 73.98814999999996
+                    }, {
+                        "latitude": 15.34687611111104,
+                        "longitude": 73.98549444444438
+                    }, {
+                        "latitude": 15.3502894444444,
+                        "longitude": 73.98246055555552
+                    }, {
+                        "latitude": 15.37985277777773,
+                        "longitude": 73.9080938888888
+                    }, {
+                        "latitude": 15.38663611111105,
+                        "longitude": 73.89102999999994
+                    }, {
+                        "latitude": 15.41351944444438,
+                        "longitude": 73.81038055555547
+                    }]
+                },
+                "state": "IN"
+            }]
+        }
+    },
+    "minAppVersion": "1.0.0-beta",
+    "originLocationMatches": null,
+    "searchResults": {
+        "dealStatus": "NON_APPLICABLE",
+        "resultsTotal": 6,
+        "searchCriteria": {
+            "dealHash": null,
+            "dealId": null,
+            "guestCount": {
+                "adults": 2,
+                "children": 0,
+                "numberOfRooms": 1
+            },
+            "location": {
+                "analyticsLocation": "Marmagao, India",
+                "destination": null,
+                "destinationLocation": "Goa (state), India",
+                "origin": null,
+                "originalLocation": null
+            },
+            "sourceId": "6049928",
+            "startAndEndDate": {
+                "end": "2015-09-27T00:00:00",
+                "start": "2015-09-24T00:00:00"
+            }
+        },
+        "searchID": 8922418215,
+        "solution": [{
+            "amenityList": [],
+            "averagePercentageRecommend": 85,
+            "best": null,
+            "bestValue": 1.6212466,
+            "charges": {
+                "averagePricePerNight": 24.0,
+                "displayPrice": 24.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": 47,
+                "strikeThruPrice": 45.12,
+                "strikeThruPriceLabel": "Savings compared to leading retail travel sites"
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 13.752654451196587,
+            "distanceFromUser": null,
+            "distanceInfo": "9.5 - 22.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": null,
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "6482790218",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 94285,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQxODIxNTo0Mzk2MTEyNTQ3ODk-",
+            "solutionName": "Mormugao - Salcete area hotel",
+            "starRating": 3.5,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "DoubleTree by Hilton",
+                    "Embassy Suites Hotels",
+                    "Hyatt Hotels & Resorts",
+                    "Hilton Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 24.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 72.0,
+                "taxesAndFees": 15.37,
+                "total": 87.37,
+                "totalWithResortFee": 87.37
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 87.3715
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "RS",
+                "description": "Resorts offer a complete destination experience. Facilities generally include a spa or fitness center, one or more swimming pools, and superior dining options. Depending on location, recreational activities may include water sports, golf, tennis or skiing. Coastal resorts usually boast ocean views or beachfront access.  Note: A resort fee may be charged.  ",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Resort-Hotel-hover.gif",
+                "iconFileName": "Resort-Hotel.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Resort",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FC",
+                "description": "Guests have access to exercise equipment; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Fitness-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Fitness-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Fitness center",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "PO",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Pools-hover.gif",
+                "iconFileName": "Hotel-Amenities-Pools.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Pool(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "RE",
+                "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Restaurants-hover.gif",
+                "iconFileName": "Restaurants.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Restaurant(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "BC",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Business-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Business-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Business center",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "HS",
+                "description": "Guestrooms are equipped with high-speed Internet access; an extra charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Internet-Access-hover.gif",
+                "iconFileName": "Internet-Access.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Internet access",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "TN",
+                "description": "Property is located within walking distance or a short drive of at least one tennis court; an extra charge typically applies.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Tennis-Nearby-hover.gif",
+                "iconFileName": "Hotel-Amenities-Tennis-Nearby.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Tennis nearby",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "SF",
+                "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Spa-Facilities-hover.gif",
+                "iconFileName": "Hotel-Amenities-Spa-Facilities.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Spa services",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 90,
+            "best": null,
+            "bestValue": 2.0520716,
+            "charges": {
+                "averagePricePerNight": 147.0,
+                "displayPrice": 147.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": null,
+                "strikeThruPrice": 0.0,
+                "strikeThruPriceLabel": ""
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 13.752654451196587,
+            "distanceFromUser": null,
+            "distanceInfo": "9.5 - 22.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "RS",
+                    "description": "Resorts offer a complete destination experience. Facilities generally include a spa or fitness center, one or more swimming pools, and superior dining options. Depending on location, recreational activities may include water sports, golf, tennis or skiing. Coastal resorts usually boast ocean views or beachfront access.  Note: A resort fee may be charged.  ",
+                    "freebie": false,
+                    "name": "Resort"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "FC",
+                    "description": "Guests have access to exercise equipment; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Fitness center"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "PO",
+                    "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                    "freebie": false,
+                    "name": "Pool(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "RE",
+                    "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                    "freebie": false,
+                    "name": "Restaurant(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "BC",
+                    "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Business center"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "HS",
+                    "description": "Guestrooms are equipped with high-speed Internet access; an extra charge may apply.",
+                    "freebie": false,
+                    "name": "Internet access"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "TN",
+                    "description": "Property is located within walking distance or a short drive of at least one tennis court; an extra charge typically applies.",
+                    "freebie": false,
+                    "name": "Tennis nearby"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "SF",
+                    "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                    "freebie": false,
+                    "name": "Spa services"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "6316335535",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 94285,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQxODIxNTo0Mzk2MTEyNTQ3ODM-",
+            "solutionName": "Mormugao - Salcete area resort",
+            "starRating": 4.0,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Hyatt Hotels & Resorts",
+                    "Intercontinental Hotels & Resorts",
+                    "Sheraton Hotels & Resorts",
+                    "Omni Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 147.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 441.0,
+                "taxesAndFees": 120.78,
+                "total": 561.78,
+                "totalWithResortFee": 561.78
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 561.78467
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "PO",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Pools-hover.gif",
+                "iconFileName": "Hotel-Amenities-Pools.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Pool(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "RE",
+                "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Restaurants-hover.gif",
+                "iconFileName": "Restaurants.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Restaurant(s)",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": null,
+            "best": null,
+            "bestValue": 2.0991678,
+            "charges": {
+                "averagePricePerNight": 18.0,
+                "displayPrice": 18.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": 41,
+                "strikeThruPrice": 30.38,
+                "strikeThruPriceLabel": "Savings compared to leading retail travel sites"
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 13.752654451196587,
+            "distanceFromUser": null,
+            "distanceInfo": "9.5 - 22.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "PO",
+                    "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                    "freebie": false,
+                    "name": "Pool(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "RE",
+                    "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                    "freebie": false,
+                    "name": "Restaurant(s)"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "5772532072",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 94285,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQxODIxNTo0Mzk2MTEyNTQ3ODY-",
+            "solutionName": "Mormugao - Salcete area hotel",
+            "starRating": 3.0,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Four Points by Sheraton",
+                    "Holiday Inn Hotels & Resorts",
+                    "Embassy Suites Hotels",
+                    "Crowne Plaza Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 18.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 54.0,
+                "taxesAndFees": 11.5,
+                "total": 65.5,
+                "totalWithResortFee": 65.5
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 65.50115
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FP",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-parking-hover.png",
+                "iconFileName": "img-icon-on-parking.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free parking",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "CI",
+                "description": "Property offers free internet access in all rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-internet-hover.png",
+                "iconFileName": "img-icon-on-internet.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free Internet",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "AS",
+                "description": "Property offers transportation to and from the airport. Shuttles may run during limited hours or require a reservation; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Shuttle-Service-hover.gif",
+                "iconFileName": "Hotel-Shuttle-Service.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Airport shuttle",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "PO",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Pools-hover.gif",
+                "iconFileName": "Hotel-Amenities-Pools.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Pool(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "BC",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Business-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Business-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Business center",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "TN",
+                "description": "Property is located within walking distance or a short drive of at least one tennis court; an extra charge typically applies.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Tennis-Nearby-hover.gif",
+                "iconFileName": "Hotel-Amenities-Tennis-Nearby.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Tennis nearby",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "SF",
+                "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Spa-Facilities-hover.gif",
+                "iconFileName": "Hotel-Amenities-Spa-Facilities.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Spa services",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "AL",
+                "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "Accessible path of travel",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 95,
+            "best": null,
+            "bestValue": 2.710543,
+            "charges": {
+                "averagePricePerNight": 164.0,
+                "displayPrice": 164.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": null,
+                "strikeThruPrice": 0.0,
+                "strikeThruPriceLabel": ""
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 13.752654451196587,
+            "distanceFromUser": null,
+            "distanceInfo": "9.5 - 22.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "FP",
+                    "description": "Property offers complimentary parking for passenger vehicles.",
+                    "freebie": true,
+                    "name": "Free parking"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "CI",
+                    "description": "Property offers free internet access in all rooms",
+                    "freebie": true,
+                    "name": "Free Internet"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "AS",
+                    "description": "Property offers transportation to and from the airport. Shuttles may run during limited hours or require a reservation; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Airport shuttle"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "PO",
+                    "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                    "freebie": false,
+                    "name": "Pool(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "BC",
+                    "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Business center"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "TN",
+                    "description": "Property is located within walking distance or a short drive of at least one tennis court; an extra charge typically applies.",
+                    "freebie": false,
+                    "name": "Tennis nearby"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "SF",
+                    "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                    "freebie": false,
+                    "name": "Spa services"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "AL",
+                    "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                    "freebie": false,
+                    "name": "Accessible path of travel"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "6654591812",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 94285,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQxODIxNTo0Mzk2MTEyNTQ3ODc-",
+            "solutionName": "Mormugao - Salcete area hotel",
+            "starRating": 5.0,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Intercontinental Hotels & Resorts",
+                    "The Luxury Collection Hotels & Resorts",
+                    "Le Meridien Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 164.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 492.0,
+                "taxesAndFees": 103.54,
+                "total": 595.54,
+                "totalWithResortFee": 595.54
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 595.5388
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "CI",
+                "description": "Property offers free internet access in all rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-internet-hover.png",
+                "iconFileName": "img-icon-on-internet.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free Internet",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "PO",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Pools-hover.gif",
+                "iconFileName": "Hotel-Amenities-Pools.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Pool(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "AR",
+                "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "In-room accessibility",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 80,
+            "best": null,
+            "bestValue": 6.225667,
+            "charges": {
+                "averagePricePerNight": 42.0,
+                "displayPrice": 42.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": null,
+                "strikeThruPrice": 0.0,
+                "strikeThruPriceLabel": ""
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 13.752654451196587,
+            "distanceFromUser": null,
+            "distanceInfo": "9.5 - 22.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "CI",
+                    "description": "Property offers free internet access in all rooms",
+                    "freebie": true,
+                    "name": "Free Internet"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "PO",
+                    "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                    "freebie": false,
+                    "name": "Pool(s)"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "AR",
+                    "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
+                    "freebie": false,
+                    "name": "In-room accessibility"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "5504836416",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 94285,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQxODIxNTo0Mzk2MTEyNTQ3OTE-",
+            "solutionName": "Mormugao - Salcete area hotel",
+            "starRating": 4.0,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Hyatt Hotels & Resorts",
+                    "Intercontinental Hotels & Resorts",
+                    "Sheraton Hotels & Resorts",
+                    "Omni Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 42.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 126.0,
+                "taxesAndFees": 31.71,
+                "total": 157.71,
+                "totalWithResortFee": 157.71
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 157.71431
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FP",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-parking-hover.png",
+                "iconFileName": "img-icon-on-parking.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free parking",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "CI",
+                "description": "Property offers free internet access in all rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-internet-hover.png",
+                "iconFileName": "img-icon-on-internet.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free Internet",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "CA",
+                "description": "Property offers a full-service casino accessible from the lobby.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "hotel-amenities-casino-hover.gif",
+                "iconFileName": "hotel-amenities-casino.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Casino",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "PO",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Pools-hover.gif",
+                "iconFileName": "Hotel-Amenities-Pools.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Pool(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "BC",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Business-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Business-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Business center",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "TN",
+                "description": "Property is located within walking distance or a short drive of at least one tennis court; an extra charge typically applies.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Tennis-Nearby-hover.gif",
+                "iconFileName": "Hotel-Amenities-Tennis-Nearby.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Tennis nearby",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "SF",
+                "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Spa-Facilities-hover.gif",
+                "iconFileName": "Hotel-Amenities-Spa-Facilities.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Spa services",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "AL",
+                "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "Accessible path of travel",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 85,
+            "best": null,
+            "bestValue": 22.916649,
+            "charges": {
+                "averagePricePerNight": 290.0,
+                "displayPrice": 290.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": null,
+                "strikeThruPrice": 0.0,
+                "strikeThruPriceLabel": ""
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 13.752654451196587,
+            "distanceFromUser": null,
+            "distanceInfo": "9.5 - 22.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "FP",
+                    "description": "Property offers complimentary parking for passenger vehicles.",
+                    "freebie": true,
+                    "name": "Free parking"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "CI",
+                    "description": "Property offers free internet access in all rooms",
+                    "freebie": true,
+                    "name": "Free Internet"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "CA",
+                    "description": "Property offers a full-service casino accessible from the lobby.",
+                    "freebie": false,
+                    "name": "Casino"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "PO",
+                    "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                    "freebie": false,
+                    "name": "Pool(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "BC",
+                    "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Business center"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "TN",
+                    "description": "Property is located within walking distance or a short drive of at least one tennis court; an extra charge typically applies.",
+                    "freebie": false,
+                    "name": "Tennis nearby"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "SF",
+                    "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                    "freebie": false,
+                    "name": "Spa services"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "AL",
+                    "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                    "freebie": false,
+                    "name": "Accessible path of travel"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "5665171638",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 94285,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQxODIxNTo0Mzk2MTEyNTQ3ODU-",
+            "solutionName": "Mormugao - Salcete area hotel",
+            "starRating": 4.5,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Sofitel Hotels",
+                    "Le Meridien Hotels & Resorts",
+                    "The Luxury Collection Hotels & Resorts",
+                    "Intercontinental Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 290.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 870.0,
+                "taxesAndFees": 187.91,
+                "total": 1057.91,
+                "totalWithResortFee": 1057.91
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 1057.9104
+        }]
+    },
+    "sortOrder": "BEST_VALUE",
+    "warnings": null
+}

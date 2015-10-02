@@ -1,0 +1,676 @@
+{
+    "content": {
+        "neighborhoods": {
+            "neighborhood": [{
+                "id": 93790,
+                "longDesc": null,
+                "shortDesc": "Lake, Shopping Malls, Hilly, Festivals, Monuments, Horseback Riding, Natural Parks, Shopping, Bars, Gardens",
+                "teaser": null
+            }]
+        },
+        "type": "text/html"
+    },
+    "destinationLocationMatches": null,
+    "echoToken": null,
+    "errors": null,
+    "metaData": {
+        "defaultImageURL": null,
+        "neighborhoods": {
+            "neighborhood": [{
+                "centroid": {
+                    "latitude": 17.4261,
+                    "longitude": 78.4091
+                },
+                "city": "Hyderabad",
+                "cityId": 174798,
+                "country": "IN",
+                "description": null,
+                "id": 93790,
+                "imageUrls": null,
+                "name": "Hyderabad",
+                "neighborhoodType": "PRIMARY",
+                "shape": {
+                    "latLong": [{
+                        "latitude": 17.50725333333327,
+                        "longitude": 78.38298277777773
+                    }, {
+                        "latitude": 17.51240555555552,
+                        "longitude": 78.31599722222217
+                    }, {
+                        "latitude": 17.48921833333327,
+                        "longitude": 78.30225611111103
+                    }, {
+                        "latitude": 17.42566777777773,
+                        "longitude": 78.28765666666658
+                    }, {
+                        "latitude": 17.41793888888884,
+                        "longitude": 78.28937444444438
+                    }, {
+                        "latitude": 17.38959833333325,
+                        "longitude": 78.33489055555549
+                    }, {
+                        "latitude": 17.38082555555548,
+                        "longitude": 78.3612094444444
+                    }, {
+                        "latitude": 17.31745999999993,
+                        "longitude": 78.4576977777777
+                    }, {
+                        "latitude": 17.31745999999993,
+                        "longitude": 78.46800333333329
+                    }, {
+                        "latitude": 17.32175388888885,
+                        "longitude": 78.47830888888882
+                    }, {
+                        "latitude": 17.4471377777777,
+                        "longitude": 78.52811888888886
+                    }, {
+                        "latitude": 17.45916055555551,
+                        "longitude": 78.52725999999996
+                    }, {
+                        "latitude": 17.50725333333327,
+                        "longitude": 78.38298277777773
+                    }]
+                },
+                "state": "IN"
+            }]
+        }
+    },
+    "minAppVersion": "1.0.0-beta",
+    "originLocationMatches": null,
+    "searchResults": {
+        "dealStatus": "NON_APPLICABLE",
+        "resultsTotal": 4,
+        "searchCriteria": {
+            "dealHash": null,
+            "dealId": null,
+            "guestCount": {
+                "adults": 2,
+                "children": 0,
+                "numberOfRooms": 1
+            },
+            "location": {
+                "analyticsLocation": "Hyderabad, India",
+                "destination": null,
+                "destinationLocation": "Hyderabad (and vicinity), India",
+                "origin": null,
+                "originalLocation": null
+            },
+            "sourceId": "6053329",
+            "startAndEndDate": {
+                "end": "2015-09-27T00:00:00",
+                "start": "2015-09-24T00:00:00"
+            }
+        },
+        "searchID": 8922444114,
+        "solution": [{
+            "amenityList": [],
+            "averagePercentageRecommend": null,
+            "best": null,
+            "bestValue": 1.2214736,
+            "charges": {
+                "averagePricePerNight": 41.0,
+                "displayPrice": 41.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": 39,
+                "strikeThruPrice": 67.64,
+                "strikeThruPriceLabel": "Savings compared to leading retail travel sites"
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 4.547874844921969,
+            "distanceFromUser": null,
+            "distanceInfo": "0.2 - 12.5 mi",
+            "hotelAddress": null,
+            "hotelAmenities": null,
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "6298861615",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 93790,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQ0NDExNDo0Mzk2MTMwMDUxNjI-",
+            "solutionName": "Hyderabad area hotel",
+            "starRating": 4.0,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Westin Hotels & Resorts",
+                    "Omni Hotels & Resorts",
+                    "Hyatt Hotels & Resorts",
+                    "Intercontinental Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 41.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 123.0,
+                "taxesAndFees": 45.5,
+                "total": 168.5,
+                "totalWithResortFee": 168.5
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 168.49582
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FP",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-parking-hover.png",
+                "iconFileName": "img-icon-on-parking.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free parking",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "PO",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Pools-hover.gif",
+                "iconFileName": "Hotel-Amenities-Pools.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Pool(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "BC",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Business-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Business-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Business center",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "HS",
+                "description": "Guestrooms are equipped with high-speed Internet access; an extra charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Internet-Access-hover.gif",
+                "iconFileName": "Internet-Access.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Internet access",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "AL",
+                "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "Accessible path of travel",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "AR",
+                "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "In-room accessibility",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "HB",
+                "description": "Raised toilet, hand-held shower and grab bars at the tub and toilet",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "Accessible bathroom",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "HP",
+                "description": "Parking available for persons with disabilities",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "Accessible parking",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 80,
+            "best": null,
+            "bestValue": 1.3233436,
+            "charges": {
+                "averagePricePerNight": 69.0,
+                "displayPrice": 69.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": 38,
+                "strikeThruPrice": 110.56,
+                "strikeThruPriceLabel": "Savings compared to leading retail travel sites"
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 4.547874844921969,
+            "distanceFromUser": null,
+            "distanceInfo": "0.2 - 12.5 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "FP",
+                    "description": "Property offers complimentary parking for passenger vehicles.",
+                    "freebie": true,
+                    "name": "Free parking"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "PO",
+                    "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                    "freebie": false,
+                    "name": "Pool(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "BC",
+                    "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Business center"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "HS",
+                    "description": "Guestrooms are equipped with high-speed Internet access; an extra charge may apply.",
+                    "freebie": false,
+                    "name": "Internet access"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "AL",
+                    "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                    "freebie": false,
+                    "name": "Accessible path of travel"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "AR",
+                    "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
+                    "freebie": false,
+                    "name": "In-room accessibility"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "HB",
+                    "description": "Raised toilet, hand-held shower and grab bars at the tub and toilet",
+                    "freebie": false,
+                    "name": "Accessible bathroom"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "HP",
+                    "description": "Parking available for persons with disabilities",
+                    "freebie": false,
+                    "name": "Accessible parking"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "5035281003",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 93790,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQ0NDExNDo0Mzk2MTMwMDUxNjg-",
+            "solutionName": "Hyderabad area hotel",
+            "starRating": 5.0,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Intercontinental Hotels & Resorts",
+                    "The Luxury Collection Hotels & Resorts",
+                    "Le Meridien Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 69.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 207.0,
+                "taxesAndFees": 55.02,
+                "total": 262.02,
+                "totalWithResortFee": 262.02
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 262.02408
+        }, {
+            "amenityList": [],
+            "averagePercentageRecommend": null,
+            "best": null,
+            "bestValue": 1.7637753,
+            "charges": {
+                "averagePricePerNight": 15.0,
+                "displayPrice": 15.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": 44,
+                "strikeThruPrice": 26.94,
+                "strikeThruPriceLabel": "Savings compared to leading retail travel sites"
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 4.547874844921969,
+            "distanceFromUser": null,
+            "distanceInfo": "0.2 - 12.5 mi",
+            "hotelAddress": null,
+            "hotelAmenities": null,
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "5071943205",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 93790,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQ0NDExNDo0Mzk2MTMwMDUxNjA-",
+            "solutionName": "Hyderabad area hotel",
+            "starRating": 2.5,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Hampton Inns",
+                    "Ramada Hotels",
+                    "Comfort Suites",
+                    "Holiday Inn Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 15.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 45.0,
+                "taxesAndFees": 7.34,
+                "total": 52.34,
+                "totalWithResortFee": 52.34
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 52.342266
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FP",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-parking-hover.png",
+                "iconFileName": "img-icon-on-parking.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free parking",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "CI",
+                "description": "Property offers free internet access in all rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-internet-hover.png",
+                "iconFileName": "img-icon-on-internet.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free Internet",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "BH",
+                "description": "Property offers a distinctive, unique or eclectic atmosphere. Many boutique hotels are smaller, hip properties in an urban setting, or renovated hotels with historical flair.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-amenities-boutique-hotel-hover.gif",
+                "iconFileName": "Hotel-amenities-boutique-hotel.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Boutique hotel",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "AS",
+                "description": "Property offers transportation to and from the airport. Shuttles may run during limited hours or require a reservation; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Shuttle-Service-hover.gif",
+                "iconFileName": "Hotel-Shuttle-Service.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Airport shuttle",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FC",
+                "description": "Guests have access to exercise equipment; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Fitness-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Fitness-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Fitness center",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "PO",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Pools-hover.gif",
+                "iconFileName": "Hotel-Amenities-Pools.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Pool(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "RE",
+                "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Restaurants-hover.gif",
+                "iconFileName": "Restaurants.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Restaurant(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "BC",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Business-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Business-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Business center",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 95,
+            "best": null,
+            "bestValue": 2.29933,
+            "charges": {
+                "averagePricePerNight": 77.0,
+                "displayPrice": 77.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": null,
+                "strikeThruPrice": 0.0,
+                "strikeThruPriceLabel": ""
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 4.547874844921969,
+            "distanceFromUser": null,
+            "distanceInfo": "0.2 - 12.5 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "FP",
+                    "description": "Property offers complimentary parking for passenger vehicles.",
+                    "freebie": true,
+                    "name": "Free parking"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "CI",
+                    "description": "Property offers free internet access in all rooms",
+                    "freebie": true,
+                    "name": "Free Internet"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "BH",
+                    "description": "Property offers a distinctive, unique or eclectic atmosphere. Many boutique hotels are smaller, hip properties in an urban setting, or renovated hotels with historical flair.",
+                    "freebie": false,
+                    "name": "Boutique hotel"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "AS",
+                    "description": "Property offers transportation to and from the airport. Shuttles may run during limited hours or require a reservation; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Airport shuttle"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "FC",
+                    "description": "Guests have access to exercise equipment; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Fitness center"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "PO",
+                    "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                    "freebie": false,
+                    "name": "Pool(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "RE",
+                    "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                    "freebie": false,
+                    "name": "Restaurant(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "BC",
+                    "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Business center"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "6710917896",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 93790,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjQ0NDExNDo0Mzk2MTMwMDUxNjc-",
+            "solutionName": "Hyderabad area boutique hotel",
+            "starRating": 4.5,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Le Meridien Hotels & Resorts",
+                    "The Luxury Collection Hotels & Resorts",
+                    "Intercontinental Hotels & Resorts",
+                    "Sofitel Hotels",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 77.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 231.0,
+                "taxesAndFees": 61.13,
+                "total": 292.13,
+                "totalWithResortFee": 292.13
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 292.13
+        }]
+    },
+    "sortOrder": "BEST_VALUE",
+    "warnings": null
+}

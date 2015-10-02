@@ -1,0 +1,1020 @@
+{
+    "content": {
+        "neighborhoods": {
+            "neighborhood": [{
+                "id": 93798,
+                "longDesc": null,
+                "shortDesc": "Wildlife, University, Hipsters, Nature, Temples, Skydiving, Secluded, Bars, Art, Spas",
+                "teaser": null
+            }, {
+                "id": 96102,
+                "longDesc": null,
+                "shortDesc": "Library, Nightlife, Shopping Malls, Bars, Sports, Spas, Live Music, Gardens, Shopping, Night Clubs",
+                "teaser": null
+            }]
+        },
+        "type": "text/html"
+    },
+    "destinationLocationMatches": null,
+    "echoToken": null,
+    "errors": null,
+    "metaData": {
+        "defaultImageURL": null,
+        "neighborhoods": {
+            "neighborhood": [{
+                "centroid": {
+                    "latitude": 18.5473,
+                    "longitude": 73.8695
+                },
+                "city": "Pune",
+                "cityId": 175494,
+                "country": "IN",
+                "description": null,
+                "id": 93798,
+                "imageUrls": null,
+                "name": "Pune",
+                "neighborhoodType": "PRIMARY",
+                "shape": {
+                    "latLong": [{
+                        "latitude": 18.50084611111112,
+                        "longitude": 73.84695388888889
+                    }, {
+                        "latitude": 18.52720946397568,
+                        "longitude": 73.90885017361109
+                    }, {
+                        "latitude": 18.53235500759547,
+                        "longitude": 73.92067334635419
+                    }, {
+                        "latitude": 18.54380931423611,
+                        "longitude": 73.94699247938365
+                    }, {
+                        "latitude": 18.54482562934027,
+                        "longitude": 73.94800879557289
+                    }, {
+                        "latitude": 18.56471638237849,
+                        "longitude": 73.94655691623262
+                    }, {
+                        "latitude": 18.56616826280384,
+                        "longitude": 73.94554060004339
+                    }, {
+                        "latitude": 18.58040055555557,
+                        "longitude": 73.91150666666664
+                    }, {
+                        "latitude": 18.58085499999999,
+                        "longitude": 73.87923
+                    }, {
+                        "latitude": 18.56994500000002,
+                        "longitude": 73.80558555555558
+                    }, {
+                        "latitude": 18.56585333333334,
+                        "longitude": 73.80058500000001
+                    }, {
+                        "latitude": 18.55903444444442,
+                        "longitude": 73.79603888888892
+                    }, {
+                        "latitude": 18.54676055555558,
+                        "longitude": 73.79649333333333
+                    }, {
+                        "latitude": 18.54312333333331,
+                        "longitude": 73.79967555555555
+                    }, {
+                        "latitude": 18.50402833333334,
+                        "longitude": 73.8387711111111
+                    }, {
+                        "latitude": 18.50084611111112,
+                        "longitude": 73.84695388888889
+                    }]
+                },
+                "state": "IN"
+            }, {
+                "centroid": {
+                    "latitude": 18.6065,
+                    "longitude": 73.7854
+                },
+                "city": "Pune",
+                "cityId": 175494,
+                "country": "IN",
+                "description": null,
+                "id": 96102,
+                "imageUrls": null,
+                "name": "Primpi Chinchwad - Mahalunge - Hinjewadi",
+                "neighborhoodType": "PRIMARY",
+                "shape": {
+                    "latLong": [{
+                        "latitude": 18.62871679687498,
+                        "longitude": 73.75731238389756
+                    }, {
+                        "latitude": 18.61646457356773,
+                        "longitude": 73.74063321397568
+                    }, {
+                        "latitude": 18.60284683051214,
+                        "longitude": 73.7220951388889
+                    }, {
+                        "latitude": 18.60175236979165,
+                        "longitude": 73.72143846137152
+                    }, {
+                        "latitude": 18.60022012369791,
+                        "longitude": 73.72143846137152
+                    }, {
+                        "latitude": 18.58742726671005,
+                        "longitude": 73.72544069661456
+                    }, {
+                        "latitude": 18.56939660698782,
+                        "longitude": 73.7310815733507
+                    }, {
+                        "latitude": 18.56103840060763,
+                        "longitude": 73.73369643120662
+                    }, {
+                        "latitude": 18.55928726128474,
+                        "longitude": 73.73566646158855
+                    }, {
+                        "latitude": 18.55863058485244,
+                        "longitude": 73.73654203125
+                    }, {
+                        "latitude": 18.56242388888887,
+                        "longitude": 73.75331431206598
+                    }, {
+                        "latitude": 18.56828222222219,
+                        "longitude": 73.7792172222222
+                    }, {
+                        "latitude": 18.59715563042533,
+                        "longitude": 73.83810806098091
+                    }, {
+                        "latitude": 18.6039412923177,
+                        "longitude": 73.84511261501734
+                    }, {
+                        "latitude": 18.60861043294273,
+                        "longitude": 73.84646420789932
+                    }, {
+                        "latitude": 18.62057710720484,
+                        "longitude": 73.84992824652778
+                    }, {
+                        "latitude": 18.62189046115452,
+                        "longitude": 73.84970935329864
+                    }, {
+                        "latitude": 18.62342270724827,
+                        "longitude": 73.84839599934895
+                    }, {
+                        "latitude": 18.6547243077257,
+                        "longitude": 73.8227856000434
+                    }, {
+                        "latitude": 18.65516209201388,
+                        "longitude": 73.82059667643227
+                    }, {
+                        "latitude": 18.65460965386285,
+                        "longitude": 73.81554303710936
+                    }, {
+                        "latitude": 18.65377719292536,
+                        "longitude": 73.80792778971352
+                    }, {
+                        "latitude": 18.62871679687498,
+                        "longitude": 73.75731238389756
+                    }]
+                },
+                "state": "IN"
+            }]
+        }
+    },
+    "minAppVersion": "1.0.0-beta",
+    "originLocationMatches": null,
+    "searchResults": {
+        "dealStatus": "NON_APPLICABLE",
+        "resultsTotal": 6,
+        "searchCriteria": {
+            "dealHash": null,
+            "dealId": null,
+            "guestCount": {
+                "adults": 2,
+                "children": 0,
+                "numberOfRooms": 1
+            },
+            "location": {
+                "analyticsLocation": "Pune, India",
+                "destination": null,
+                "destinationLocation": "Pune, India (PNQ-Lohegaon) Shadow",
+                "origin": null,
+                "originalLocation": null
+            },
+            "sourceId": "6024800",
+            "startAndEndDate": {
+                "end": "2015-09-27T00:00:00",
+                "start": "2015-09-24T00:00:00"
+            }
+        },
+        "searchID": 8922396013,
+        "solution": [{
+            "amenityList": [],
+            "averagePercentageRecommend": null,
+            "best": null,
+            "bestValue": 1.0717129,
+            "charges": {
+                "averagePricePerNight": 28.0,
+                "displayPrice": 28.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": 30,
+                "strikeThruPrice": 39.83,
+                "strikeThruPriceLabel": "Savings compared to leading retail travel sites"
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 8.355289297603681,
+            "distanceFromUser": null,
+            "distanceInfo": "5.5 - 12.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": null,
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "6641534499",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 96102,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjM5NjAxMzo0Mzk2MDg4ODQxNDU-",
+            "solutionName": "Primpi Chinchwad - Mahalunge - Hinjewadi area hotel",
+            "starRating": 3.5,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Embassy Suites Hotels",
+                    "Hilton Hotels & Resorts",
+                    "Hyatt Hotels & Resorts",
+                    "Sheraton Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 28.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 84.0,
+                "taxesAndFees": 19.11,
+                "total": 103.11,
+                "totalWithResortFee": 103.11
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 103.11122
+        }, {
+            "amenityList": [],
+            "averagePercentageRecommend": 90,
+            "best": null,
+            "bestValue": 1.1766028,
+            "charges": {
+                "averagePricePerNight": 45.0,
+                "displayPrice": 45.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": null,
+                "strikeThruPrice": 0.0,
+                "strikeThruPriceLabel": ""
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 3.425475357694571,
+            "distanceFromUser": null,
+            "distanceInfo": "1.0 - 7.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": null,
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "5926366121",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 93798,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjM5NjAxMzo0Mzk2MDg4ODQxNDY-",
+            "solutionName": "Pune area hotel",
+            "starRating": 4.0,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Intercontinental Hotels & Resorts",
+                    "Omni Hotels & Resorts",
+                    "Sheraton Hotels & Resorts",
+                    "Westin Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 45.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 135.0,
+                "taxesAndFees": 34.09,
+                "total": 169.09,
+                "totalWithResortFee": 169.09
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 169.09026
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FP",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-parking-hover.png",
+                "iconFileName": "img-icon-on-parking.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free parking",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "CI",
+                "description": "Property offers free internet access in all rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-internet-hover.png",
+                "iconFileName": "img-icon-on-internet.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free Internet",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "BH",
+                "description": "Property offers a distinctive, unique or eclectic atmosphere. Many boutique hotels are smaller, hip properties in an urban setting, or renovated hotels with historical flair.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-amenities-boutique-hotel-hover.gif",
+                "iconFileName": "Hotel-amenities-boutique-hotel.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Boutique hotel",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "AS",
+                "description": "Property offers transportation to and from the airport. Shuttles may run during limited hours or require a reservation; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Shuttle-Service-hover.gif",
+                "iconFileName": "Hotel-Shuttle-Service.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Airport shuttle",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FC",
+                "description": "Guests have access to exercise equipment; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Fitness-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Fitness-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Fitness center",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "PO",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Pools-hover.gif",
+                "iconFileName": "Hotel-Amenities-Pools.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Pool(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "RE",
+                "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Restaurants-hover.gif",
+                "iconFileName": "Restaurants.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Restaurant(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "BC",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Business-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Business-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Business center",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 100,
+            "best": null,
+            "bestValue": 1.2460345,
+            "charges": {
+                "averagePricePerNight": 66.0,
+                "displayPrice": 66.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": null,
+                "strikeThruPrice": 0.0,
+                "strikeThruPriceLabel": ""
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 3.425475357694571,
+            "distanceFromUser": null,
+            "distanceInfo": "1.0 - 7.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "FP",
+                    "description": "Property offers complimentary parking for passenger vehicles.",
+                    "freebie": true,
+                    "name": "Free parking"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "CI",
+                    "description": "Property offers free internet access in all rooms",
+                    "freebie": true,
+                    "name": "Free Internet"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "BH",
+                    "description": "Property offers a distinctive, unique or eclectic atmosphere. Many boutique hotels are smaller, hip properties in an urban setting, or renovated hotels with historical flair.",
+                    "freebie": false,
+                    "name": "Boutique hotel"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "AS",
+                    "description": "Property offers transportation to and from the airport. Shuttles may run during limited hours or require a reservation; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Airport shuttle"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "FC",
+                    "description": "Guests have access to exercise equipment; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Fitness center"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "PO",
+                    "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                    "freebie": false,
+                    "name": "Pool(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "RE",
+                    "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                    "freebie": false,
+                    "name": "Restaurant(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "BC",
+                    "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Business center"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "5272096317",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 93798,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjM5NjAxMzo0Mzk2MDg4ODQxNDg-",
+            "solutionName": "Pune area boutique hotel",
+            "starRating": 4.5,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Intercontinental Hotels & Resorts",
+                    "Le Meridien Hotels & Resorts",
+                    "The Luxury Collection Hotels & Resorts",
+                    "Sofitel Hotels",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 66.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 198.0,
+                "taxesAndFees": 49.67,
+                "total": 247.67,
+                "totalWithResortFee": 247.67
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 247.66943
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "SF",
+                "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Spa-Facilities-hover.gif",
+                "iconFileName": "Hotel-Amenities-Spa-Facilities.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Spa services",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 90,
+            "best": null,
+            "bestValue": 1.3763139,
+            "charges": {
+                "averagePricePerNight": 55.0,
+                "displayPrice": 55.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": null,
+                "strikeThruPrice": 0.0,
+                "strikeThruPriceLabel": ""
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 3.425475357694571,
+            "distanceFromUser": null,
+            "distanceInfo": "1.0 - 7.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "SF",
+                    "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                    "freebie": false,
+                    "name": "Spa services"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "5179059808",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 93798,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjM5NjAxMzo0Mzk2MDg4ODQxNTE-",
+            "solutionName": "Pune area hotel",
+            "starRating": 4.5,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Intercontinental Hotels & Resorts",
+                    "Le Meridien Hotels & Resorts",
+                    "The Luxury Collection Hotels & Resorts",
+                    "Sofitel Hotels",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 55.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 165.0,
+                "taxesAndFees": 40.17,
+                "total": 205.17,
+                "totalWithResortFee": 205.17
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 205.1738
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FP",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-parking-hover.png",
+                "iconFileName": "img-icon-on-parking.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free parking",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "CB",
+                "description": "Rates include continental or full breakfast.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-breakfast-hover.png",
+                "iconFileName": "img-icon-on-breakfast.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free breakfast",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "CI",
+                "description": "Property offers free internet access in all rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-internet-hover.png",
+                "iconFileName": "img-icon-on-internet.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free Internet",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "RE",
+                "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Restaurants-hover.gif",
+                "iconFileName": "Restaurants.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Restaurant(s)",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 100,
+            "best": null,
+            "bestValue": 1.6411139,
+            "charges": {
+                "averagePricePerNight": 26.0,
+                "displayPrice": 26.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": null,
+                "strikeThruPrice": 0.0,
+                "strikeThruPriceLabel": ""
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 3.425475357694571,
+            "distanceFromUser": null,
+            "distanceInfo": "1.0 - 7.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "FP",
+                    "description": "Property offers complimentary parking for passenger vehicles.",
+                    "freebie": true,
+                    "name": "Free parking"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "CB",
+                    "description": "Rates include continental or full breakfast.",
+                    "freebie": true,
+                    "name": "Free breakfast"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "CI",
+                    "description": "Property offers free internet access in all rooms",
+                    "freebie": true,
+                    "name": "Free Internet"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "RE",
+                    "description": "Property offers at least one restaurant on the premises; hours and days of operation may vary.",
+                    "freebie": false,
+                    "name": "Restaurant(s)"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "6604469724",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 93798,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjM5NjAxMzo0Mzk2MDg4ODQxMzk-",
+            "solutionName": "Pune area hotel",
+            "starRating": 2.0,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Best Western Inns",
+                    "Quality Inns",
+                    "Microtel Inns & Suites",
+                    "EconoLodge Hotels",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 26.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 78.0,
+                "taxesAndFees": 24.05,
+                "total": 102.05,
+                "totalWithResortFee": 102.05
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 102.045715
+        }, {
+            "amenityList": [{
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "FP",
+                "description": "Property offers complimentary parking for passenger vehicles.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "img-icon-on-parking-hover.png",
+                "iconFileName": "img-icon-on-parking.png",
+                "isFreebie": true,
+                "major": false,
+                "name": "Free parking",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "PO",
+                "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Pools-hover.gif",
+                "iconFileName": "Hotel-Amenities-Pools.gif",
+                "isFreebie": false,
+                "major": true,
+                "name": "Pool(s)",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "BC",
+                "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Business-Centers-hover.gif",
+                "iconFileName": "Hotel-Amenities-Business-Centers.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Business center",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "HS",
+                "description": "Guestrooms are equipped with high-speed Internet access; an extra charge may apply.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Internet-Access-hover.gif",
+                "iconFileName": "Internet-Access.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Internet access",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "D",
+                "c3Hidden": false,
+                "code": "SF",
+                "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "Hotel-Amenities-Spa-Facilities-hover.gif",
+                "iconFileName": "Hotel-Amenities-Spa-Facilities.gif",
+                "isFreebie": false,
+                "major": false,
+                "name": "Spa services",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "AL",
+                "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "Accessible path of travel",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "AR",
+                "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "In-room accessibility",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "AW",
+                "description": "Wheelchair accessible common areas",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "Wheelchair accessible",
+                "quantifier": null
+            }, {
+                "amenityFee": null,
+                "amenityGroupCode": "A",
+                "c3Hidden": false,
+                "code": "HB",
+                "description": "Raised toilet, hand-held shower and grab bars at the tub and toilet",
+                "frequency": null,
+                "hotelCount": 0,
+                "hotelResultCount": 0,
+                "hoverIconFileName": "-hover",
+                "iconFileName": null,
+                "isFreebie": false,
+                "major": false,
+                "name": "Accessible bathroom",
+                "quantifier": null
+            }],
+            "averagePercentageRecommend": 75,
+            "best": null,
+            "bestValue": 1.9652791,
+            "charges": {
+                "averagePricePerNight": 71.0,
+                "displayPrice": 71.0,
+                "displayPriceLabel": "",
+                "displayPriceType": 0,
+                "localCurrencyCode": "USD",
+                "percentage": 33,
+                "strikeThruPrice": 105.96,
+                "strikeThruPriceLabel": "Savings compared to leading retail travel sites"
+            },
+            "cheapest": null,
+            "distanceFromSearchLocation": 3.425475357694571,
+            "distanceFromUser": null,
+            "distanceInfo": "1.0 - 7.0 mi",
+            "hotelAddress": null,
+            "hotelAmenities": {
+                "amenity": [{
+                    "accessibilityOption": false,
+                    "code": "FP",
+                    "description": "Property offers complimentary parking for passenger vehicles.",
+                    "freebie": true,
+                    "name": "Free parking"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "PO",
+                    "description": "Property offers at least one pool area; hours and dates of operation may be seasonal.",
+                    "freebie": false,
+                    "name": "Pool(s)"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "BC",
+                    "description": "Guests have access to business equipment and services; an additional charge may apply.",
+                    "freebie": false,
+                    "name": "Business center"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "HS",
+                    "description": "Guestrooms are equipped with high-speed Internet access; an extra charge may apply.",
+                    "freebie": false,
+                    "name": "Internet access"
+                }, {
+                    "accessibilityOption": false,
+                    "code": "SF",
+                    "description": "Guests have access to a spa facility or spa services; an extra charge typically applies.",
+                    "freebie": false,
+                    "name": "Spa services"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "AL",
+                    "description": "36 inch wide flat or ramped paths from the parking lot to the front desk and from the front desk to guest rooms",
+                    "freebie": false,
+                    "name": "Accessible path of travel"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "AR",
+                    "description": "Accessible path from the room entrance to the window, the bed and the bathroom; accessible hardware and minimal resistance to open the door; accessible temperature controls and window coverings",
+                    "freebie": false,
+                    "name": "In-room accessibility"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "AW",
+                    "description": "Wheelchair accessible common areas",
+                    "freebie": false,
+                    "name": "Wheelchair accessible"
+                }, {
+                    "accessibilityOption": true,
+                    "code": "HB",
+                    "description": "Raised toilet, hand-held shower and grab bars at the tub and toilet",
+                    "freebie": false,
+                    "name": "Accessible bathroom"
+                }]
+            },
+            "hotelImageUrls": null,
+            "hotelLatLong": null,
+            "hotelName": null,
+            "hwRefNumber": "5845168964",
+            "levelOfOpacity": 0,
+            "neighborhoodId": 93798,
+            "nightFallDeal": false,
+            "numberOfBookingsIn24Hrs": null,
+            "numberOfRoomsLeft": null,
+            "ratingInfo": null,
+            "resortFee": false,
+            "resultID": "ODkyMjM5NjAxMzo0Mzk2MDg4ODQxNDE-",
+            "solutionName": "Pune area hotel",
+            "starRating": 5.0,
+            "starRatingHotels": {
+                "sampleHotelChain": [
+                    "Intercontinental Hotels & Resorts",
+                    "Le Meridien Hotels & Resorts",
+                    "The Luxury Collection Hotels & Resorts",
+                    "and other brand-name and independent hotels"
+                ]
+            },
+            "summaryOfCharges": {
+                "additionalFeatures": null,
+                "dailyRate": 71.0,
+                "extraPersonFees": 0.0,
+                "numberOfNights": 3,
+                "resortFeeTotal": 0.0,
+                "subTotal": 213.0,
+                "taxesAndFees": 53.78,
+                "total": 266.78,
+                "totalWithResortFee": 266.78
+            },
+            "superSavingsFlag": false,
+            "tripTotal": 266.77695
+        }]
+    },
+    "sortOrder": "BEST_VALUE",
+    "warnings": null
+}
