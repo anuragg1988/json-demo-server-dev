@@ -576,6 +576,34 @@
             "numOfRoomsLeft": "8"
         }]
     },
+	"hotelDetails":{
+	"hotelList":[
+	{
+	"hotelUser":"Rakesh",
+	"pin":"11",
+	"hotelId":"ht1",
+	"hotelName":"Le Meredian",
+	"hotelAddress":"26/B 2nd Lane Pune Station, Pune - 411015",
+	"starRating":"5 Star",
+	"checkinTime":"12:00 PM",
+	"checkOutTime":"11:30 AM",
+	"primaryImage":"http://www.skiing-hokkaido.com/common/images/photo_gallery/gallery12/Hotel%20lobby_b.jpg",
+	"status":"Active"
+	},
+	{
+	"hotelUser":"Thomas",
+	"pin":"11",
+	"hotelId":"ht2",
+	"hotelName":"Novotel",
+	"HotelAddress":"21/C 4th Lane Viman Nagar, Pune - 411017",
+	"starRating":"5 Star",
+	"Checkin Time":"12:00 PM",
+	"Checkout Time":"11:30 AM",
+	"primaryImage":"http://www.skiing-hokkaido.com/common/images/photo_gallery/gallery12/Hotel%20lobby_b.jpg",
+	"Status":"Active"
+	}
+	]
+	},
     "validCities": {
         "validCityList": [
             "Pune",
