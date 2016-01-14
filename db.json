@@ -576,10 +576,10 @@
             "numOfRoomsLeft": "8"
         }]
     },
-	"hotelDetails":{
+	
 	"hotelList":[
 	{
-		"id":11,
+         "id":"11",
 	"hotelUser":"Rakesh",
 	"pin":"11",
 	"hotelId":"ht1",
@@ -605,7 +605,7 @@
 	"Status":"Active"
 	}
 	]
-	},
+	,
     "validCities": {
         "validCityList": [
             "Pune",
