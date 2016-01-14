@@ -579,7 +579,7 @@
 	
 	"hotelList":[
 	{
-         "id":"11",
+         "id":11,
 	"hotelUser":"Rakesh",
 	"pin":"11",
 	"hotelId":"ht1",
@@ -592,7 +592,7 @@
 	"status":"Active"
 	},
 	{
-		"id":"12",
+	"id":12,
 	"hotelUser":"Thomas",
 	"pin":"11",
 	"hotelId":"ht2",
