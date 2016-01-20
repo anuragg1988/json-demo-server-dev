@@ -577,33 +577,582 @@
         }]
     },
 	
-	"hotelList":[
+	"merchantList":[{  
+
+    "merchant" : {
+	"id":"11",
+	"name":"Tejas",
+	"hotelId":"hotel1",
+	"hotelName":"Novotel"}
+	,
+    "bookingList" : [
 	{
-         "id":11,
-	"hotelUser":"Rakesh",
-	"pin":"11",
-	"hotelId":"ht1",
-	"hotelName":"Le Meredian",
-	"hotelAddress":"26/B 2nd Lane Pune Station, Pune - 411015",
-	"starRating":"5 Star",
-	"checkinTime":"12:00 PM",
-	"checkOutTime":"11:30 AM",
-	"primaryImage":"http://www.skiing-hokkaido.com/common/images/photo_gallery/gallery12/Hotel%20lobby_b.jpg",
-	"status":"Active"
-	},
+		  "customer" : 
+		  {
+			  "customerId":"cust1",
+			  "customerName":"Rahul",
+			  "bookingId":"book1"
+		  },
+		  "bookingId":"book1",
+		  "hotelId":"hotel1",
+		  "hotelName":"Novotel",
+		  "roomId":"room1",
+		  "roomType":"Deluxe",
+		  "fromDate":"25-01-2016",
+		  "toDate":"27-01-2016",
+		  "noOfAdults":"2",
+		  "noOfChildren":"0",
+		  "noOfRooms":"1",
+		  "cost":"8500"
+      
+    },
 	{
-	"id":12,
-	"hotelUser":"Thomas",
-	"pin":"11",
-	"hotelId":"ht2",
-	"hotelName":"Novotel",
-	"HotelAddress":"21/C 4th Lane Viman Nagar, Pune - 411017",
-	"starRating":"5 Star",
-	"Checkin Time":"12:00 PM",
-	"Checkout Time":"11:30 AM",
-	"primaryImage":"http://www.skiing-hokkaido.com/common/images/photo_gallery/gallery12/Hotel%20lobby_b.jpg",
-	"Status":"Active"
-	}
+      "customer" : 
+	  {
+		  "customerId":"cust2",
+		  "customerName":"Malesh",
+		  "bookingId":"book2"
+	  },
+	  "bookingId":"book2",
+	  "hotelId":"hotel1",
+      "hotelName":"Novotel",
+      "roomId":"room2",
+      "roomType":"AC-Room",
+      "fromDate":"13-02-2016",
+      "toDate":"15-01-2016",
+      "noOfAdults":"2",
+      "noOfChildren":"1",
+      "noOfRooms":"1",
+      "cost":"7500"
+      
+    },
+	{
+      "customer" : 
+	  {
+		  "customerId":"cust3",
+		  "customerName":"Peter",
+		  "bookingId":"book3"
+	  },
+	  "bookingId":"book3",
+	  "hotelId":"hotel1",
+      "hotelName":"Novotel",
+      "roomId":"room3",
+      "roomType":"Comfort",
+      "fromDate":"27-01-2016",
+      "toDate":"28-01-2016",
+      "noOfAdults":"3",
+      "noOfChildren":"0",
+      "noOfRooms":"1",
+      "cost":"5500"
+      
+    }],
+    "hotel" : {
+        "checkOutTime" : "11:30:AM",
+        "checkinTime" : "12:00:PM",
+        "hotelAddress" : "Viman Nagar, Pune-411015",
+        "hotelId" : "hotel1",
+        "hotelName" : "Novotel",
+        "hotelUser" : "Joseph",
+        "pin" : "11",
+        "primaryImage" : "http://www.download3dhouse.com/wp-content/uploads/2013/12/Hotel-lobby-interior-decoration-image.jpg",
+        "roomList" : [
+		{
+		 "roomName" : "Deluxe",
+		  "roomId" : "room1",
+              "roomAmeneties" : [
+			    {
+					"code" : "brk",
+					"name" : "Breakfast",
+					"description" : "Complimentary breakfast available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "air",
+					"name" : "Airport Trasnfer",
+					"description" : "Complimentary Airport transfer",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "wifi",
+					"name" : "Wifi",
+					"description" : "Complimentary wifi available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"}
+					
+              ],
+               "roomPhotos" : [
+			   {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room1-1",
+					"title" : "Enterance",
+					"url" : "https://texasstation.sclv.com/~/media/Images/Page%20Background%20Images/Texas/TS_Hotel_King_lowrez.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room1-2",
+					"title" : "Enterance",
+					"url" : "http://www.themresort.com/media/gallery/images/HOTEL-ROOMS/M-Resort-Hotel-Room-King-Suite.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room1-3",
+					"title" : "Enterance",
+					"url" : "https://prahandhuschwedding.files.wordpress.com/2015/03/hotelroom.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room1-4",
+					"title" : "Enterance",
+					"url" : "http://hotellacejita.com/wp-content/uploads/2013/04/hotel-room-suite-room.jpg"
+				}
+				],
+              "roomPrice" : {
+                  "averagePricePerNight" : "3400",
+                  "dailyRate" : "3000",
+                  "displayPrice" : "4200",
+                  "isBest" : "yes",
+                  "isCheapest" : "no",
+                  "localCurrencyCode" :"INR",
+                  "numberOfNights" :"1",
+                  "percentage" : "0",
+                  "strikeThroughPrice" :"6800",
+                  "taxesAndFees" : "10%",
+                  "tripTotal" : "0"
+                }
+              
+            
+          
+        },
+		{
+		 "roomName" : "AC-Room",
+		  "roomId" : "room2",
+              "roomAmeneties" : [
+			    {
+					"code" : "brk",
+					"name" : "Breakfast",
+					"description" : "Complimentary breakfast available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "air",
+					"name" : "Airport Trasnfer",
+					"description" : "Complimentary Airport transfer",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "wifi",
+					"name" : "Wifi",
+					"description" : "Complimentary wifi available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"}
+					
+              ],
+               "roomPhotos" : [
+			   {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room2-1",
+					"title" : "Enterance",
+					"url" : "https://texasstation.sclv.com/~/media/Images/Page%20Background%20Images/Texas/TS_Hotel_King_lowrez.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room2-2",
+					"title" : "Enterance",
+					"url" : "http://www.themresort.com/media/gallery/images/HOTEL-ROOMS/M-Resort-Hotel-Room-King-Suite.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room2-3",
+					"title" : "Enterance",
+					"url" : "https://prahandhuschwedding.files.wordpress.com/2015/03/hotelroom.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room2-4",
+					"title" : "Enterance",
+					"url" : "http://hotellacejita.com/wp-content/uploads/2013/04/hotel-room-suite-room.jpg"
+				}
+				],
+              "roomPrice" : {
+                  "averagePricePerNight" : "4400",
+                  "dailyRate" : "4000",
+                  "displayPrice" : "5200",
+                  "isBest" : "yes",
+                  "isCheapest" : "no",
+                  "localCurrencyCode" :"INR",
+                  "numberOfNights" :"1",
+                  "percentage" : "0",
+                  "strikeThroughPrice" :"7800",
+                  "taxesAndFees" : "10%",
+                  "tripTotal" : "0"
+                }
+              
+            
+          
+        },
+		{
+		 "roomName" : "Comfort",
+		  "roomId" : "room3",
+              "roomAmeneties" : [
+			    {
+					"code" : "brk",
+					"name" : "Breakfast",
+					"description" : "Complimentary breakfast available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "air",
+					"name" : "Airport Trasnfer",
+					"description" : "Complimentary Airport transfer",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "wifi",
+					"name" : "Wifi",
+					"description" : "Complimentary wifi available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"}
+					
+              ],
+               "roomPhotos" : [
+			   {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room3-1",
+					"title" : "Enterance",
+					"url" : "https://texasstation.sclv.com/~/media/Images/Page%20Background%20Images/Texas/TS_Hotel_King_lowrez.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room3-2",
+					"title" : "Enterance",
+					"url" : "http://www.themresort.com/media/gallery/images/HOTEL-ROOMS/M-Resort-Hotel-Room-King-Suite.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room3-3",
+					"title" : "Enterance",
+					"url" : "https://prahandhuschwedding.files.wordpress.com/2015/03/hotelroom.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room3-4",
+					"title" : "Enterance",
+					"url" : "http://hotellacejita.com/wp-content/uploads/2013/04/hotel-room-suite-room.jpg"
+				}
+				],
+              "roomPrice" : {
+                  "averagePricePerNight" : "5700",
+                  "dailyRate" : "4500",
+                  "displayPrice" : "4200",
+                  "isBest" : "yes",
+                  "isCheapest" : "no",
+                  "localCurrencyCode" :"INR",
+                  "numberOfNights" :"1",
+                  "percentage" : "0",
+                  "strikeThroughPrice" :"8400",
+                  "taxesAndFees" : "12%",
+                  "tripTotal" : "0"
+                }
+              
+            
+          
+        }],
+        "starRating" : "4",
+        "status" : "Active"
+      
+	  
+    }
+	
+  },
+  {  
+
+    "merchant" : {
+	"id":"12",
+	"name":"Nikolas",
+	"hotelId":"hotel2",
+	"hotelName":"Key Hotel"}
+	,
+    "bookingList" : [
+	{
+		  "customer" : 
+		  {
+			  "customerId":"cust1",
+			  "customerName":"Pritam",
+			  "bookingId":"book1"
+		  },
+		  "bookingId":"book1",
+		  "hotelId":"hotel1",
+		  "hotelName":"KeyHotel",
+		  "roomId":"room1",
+		  "roomType":"Deluxe",
+		  "fromDate":"25-01-2016",
+		  "toDate":"27-01-2016",
+		  "noOfAdults":"2",
+		  "noOfChildren":"0",
+		  "noOfRooms":"1",
+		  "cost":"8500"
+      
+    },
+	{
+      "customer" : 
+	  {
+		  "customerId":"cust2",
+		  "customerName":"Suresh",
+		  "bookingId":"book2"
+	  },
+	  "bookingId":"book2",
+	  "hotelId":"hotel1",
+      "hotelName":"Pritam",
+      "roomId":"room2",
+      "roomType":"AC-Room",
+      "fromDate":"13-02-2016",
+      "toDate":"15-01-2016",
+      "noOfAdults":"2",
+      "noOfChildren":"1",
+      "noOfRooms":"1",
+      "cost":"7500"
+      
+    },
+	{
+      "customer" : 
+	  {
+		  "customerId":"cust3",
+		  "customerName":"Neena",
+		  "bookingId":"book3"
+	  },
+	  "bookingId":"book3",
+	  "hotelId":"hotel1",
+      "hotelName":"Key Hotel",
+      "roomId":"room3",
+      "roomType":"Comfort",
+      "fromDate":"27-01-2016",
+      "toDate":"28-01-2016",
+      "noOfAdults":"3",
+      "noOfChildren":"0",
+      "noOfRooms":"1",
+      "cost":"5500"
+      
+    }],
+    "hotel" : {
+        "checkOutTime" : "11:30:AM",
+        "checkinTime" : "12:00:PM",
+        "hotelAddress" : "Hinjewadi, Pune-411015",
+        "hotelId" : "hotel1",
+        "hotelName" : "Key Hotel",
+        "hotelUser" : "Johny",
+        "pin" : "12",
+        "primaryImage" : "http://www.download3dhouse.com/wp-content/uploads/2013/12/Hotel-lobby-interior-decoration-image.jpg",
+        "roomList" : [
+		{
+		 "roomName" : "Deluxe",
+		  "roomId" : "room1",
+              "roomAmeneties" : [
+			    {
+					"code" : "brk",
+					"name" : "Breakfast",
+					"description" : "Complimentary breakfast available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "air",
+					"name" : "Airport Trasnfer",
+					"description" : "Complimentary Airport transfer",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "wifi",
+					"name" : "Wifi",
+					"description" : "Complimentary wifi available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"}
+					
+              ],
+               "roomPhotos" : [
+			   {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room1-1",
+					"title" : "Enterance",
+					"url" : "https://texasstation.sclv.com/~/media/Images/Page%20Background%20Images/Texas/TS_Hotel_King_lowrez.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room1-2",
+					"title" : "Enterance",
+					"url" : "http://www.themresort.com/media/gallery/images/HOTEL-ROOMS/M-Resort-Hotel-Room-King-Suite.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room1-3",
+					"title" : "Enterance",
+					"url" : "https://prahandhuschwedding.files.wordpress.com/2015/03/hotelroom.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room1-4",
+					"title" : "Enterance",
+					"url" : "http://hotellacejita.com/wp-content/uploads/2013/04/hotel-room-suite-room.jpg"
+				}
+				],
+              "roomPrice" : {
+                  "averagePricePerNight" : "3400",
+                  "dailyRate" : "3500",
+                  "displayPrice" : "4200",
+                  "isBest" : "yes",
+                  "isCheapest" : "no",
+                  "localCurrencyCode" :"INR",
+                  "numberOfNights" :"1",
+                  "percentage" : "0",
+                  "strikeThroughPrice" :"6800",
+                  "taxesAndFees" : "10%",
+                  "tripTotal" : "0"
+                }
+              
+            
+          
+        },
+		{
+		 "roomName" : "AC-Room",
+		  "roomId" : "room2",
+              "roomAmeneties" : [
+			    {
+					"code" : "brk",
+					"name" : "Breakfast",
+					"description" : "Complimentary breakfast available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "air",
+					"name" : "Airport Trasnfer",
+					"description" : "Complimentary Airport transfer",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "wifi",
+					"name" : "Wifi",
+					"description" : "Complimentary wifi available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"}
+					
+              ],
+               "roomPhotos" : [
+			   {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room2-1",
+					"title" : "Enterance",
+					"url" : "https://texasstation.sclv.com/~/media/Images/Page%20Background%20Images/Texas/TS_Hotel_King_lowrez.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room2-2",
+					"title" : "Enterance",
+					"url" : "http://www.themresort.com/media/gallery/images/HOTEL-ROOMS/M-Resort-Hotel-Room-King-Suite.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room2-3",
+					"title" : "Enterance",
+					"url" : "https://prahandhuschwedding.files.wordpress.com/2015/03/hotelroom.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room2-4",
+					"title" : "Enterance",
+					"url" : "http://hotellacejita.com/wp-content/uploads/2013/04/hotel-room-suite-room.jpg"
+				}
+				],
+              "roomPrice" : {
+                  "averagePricePerNight" : "6400",
+                  "dailyRate" : "4000",
+                  "displayPrice" : "5200",
+                  "isBest" : "yes",
+                  "isCheapest" : "no",
+                  "localCurrencyCode" :"INR",
+                  "numberOfNights" :"1",
+                  "percentage" : "0",
+                  "strikeThroughPrice" :"7800",
+                  "taxesAndFees" : "10%",
+                  "tripTotal" : "0"
+                }
+              
+            
+          
+        },
+		{
+		 "roomName" : "Comfort",
+		  "roomId" : "room3",
+              "roomAmeneties" : [
+			    {
+					"code" : "brk",
+					"name" : "Breakfast",
+					"description" : "Complimentary breakfast available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "air",
+					"name" : "Airport Trasnfer",
+					"description" : "Complimentary Airport transfer",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"},
+				{
+					"code" : "wifi",
+					"name" : "Wifi",
+					"description" : "Complimentary wifi available",
+					"accessibilityOption" : "1",
+					"freebie" : "yes"}
+					
+              ],
+               "roomPhotos" : [
+			   {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room3-1",
+					"title" : "Enterance",
+					"url" : "https://texasstation.sclv.com/~/media/Images/Page%20Background%20Images/Texas/TS_Hotel_King_lowrez.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room3-2",
+					"title" : "Enterance",
+					"url" : "http://www.themresort.com/media/gallery/images/HOTEL-ROOMS/M-Resort-Hotel-Room-King-Suite.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room3-3",
+					"title" : "Enterance",
+					"url" : "https://prahandhuschwedding.files.wordpress.com/2015/03/hotelroom.jpg"
+				},
+				 {               
+					"dateAdded" : "22-01-2016",
+					"description" : "room3-4",
+					"title" : "Enterance",
+					"url" : "http://hotellacejita.com/wp-content/uploads/2013/04/hotel-room-suite-room.jpg"
+				}
+				],
+              "roomPrice" : {
+                  "averagePricePerNight" : "7700",
+                  "dailyRate" : "4500",
+                  "displayPrice" : "4200",
+                  "isBest" : "yes",
+                  "isCheapest" : "no",
+                  "localCurrencyCode" :"INR",
+                  "numberOfNights" :"1",
+                  "percentage" : "0",
+                  "strikeThroughPrice" :"8400",
+                  "taxesAndFees" : "12%",
+                  "tripTotal" : "0"
+                }
+              
+            
+          
+        }],
+        "starRating" : "5",
+        "status" : "Active"
+      
+	  
+    }
+	
+  }
+
+
 	]
 	,
     "validCities": {
