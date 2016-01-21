@@ -869,11 +869,10 @@
   },
   {  
 "id":12,
+"statusCode":"00",
+		"statusMessage":"success",
     "merchant" : {
 	"id":"12",
-	
-		"statusCode":"00",
-		"statusMessage":"success",
 	"name":"Nikolas",
 	"hotelId":"hotel2",
 	"hotelName":"Key Hotel"}
