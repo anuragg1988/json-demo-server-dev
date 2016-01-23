@@ -659,6 +659,8 @@
         "pin" : "11",
         "primaryImage" : "http://www.download3dhouse.com/wp-content/uploads/2013/12/Hotel-lobby-interior-decoration-image.jpg",
 		"pinCode":"411015",
+		"emailId":"novotel@exp.com",
+		"contactNo":+91-98987665544,
         "roomList" : [
 		{
 		 "roomName" : "Deluxe",
@@ -958,6 +960,8 @@
         "pin" : "12",
         "primaryImage" : "http://www.download3dhouse.com/wp-content/uploads/2013/12/Hotel-lobby-interior-decoration-image.jpg",
 		"pinCode":"411015",
+		"emailId":"keyhotel@exp.com",
+		"contactNo":+91-98987665544,
         "roomList" : [
 		{
 		 "roomName" : "Deluxe",
