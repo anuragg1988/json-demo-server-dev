@@ -663,6 +663,9 @@
 		{
 		 "roomName" : "Deluxe",
 		  "roomId" : "room1",
+		  "noOfRooms":"3",
+		  "fromDate":"22-Feb-2016",
+		  "toDate":"28-Feb-2016",
               "roomAmeneties" : [
 			    {
 					"code" : "brk",
@@ -730,6 +733,9 @@
 		{
 		 "roomName" : "AC-Room",
 		  "roomId" : "room2",
+		  "noOfRooms":"2",
+		   "fromDate":"18-Feb-2016",
+		  "toDate":"22-Feb-2016",
               "roomAmeneties" : [
 			    {
 					"code" : "brk",
@@ -797,6 +803,9 @@
 		{
 		 "roomName" : "Comfort",
 		  "roomId" : "room3",
+		  "noOfRooms":"5",
+		   "fromDate":"1-Mar-2016",
+		  "toDate":"12-Mar-2016",
               "roomAmeneties" : [
 			    {
 					"code" : "brk",
@@ -953,6 +962,9 @@
 		{
 		 "roomName" : "Deluxe",
 		  "roomId" : "room1",
+		  "noOfRooms":"4",
+		   "fromDate":"21-Feb-2016",
+		  "toDate":"26-Feb-2016",
               "roomAmeneties" : [
 			    {
 					"code" : "brk",
@@ -1020,6 +1032,9 @@
 		{
 		 "roomName" : "AC-Room",
 		  "roomId" : "room2",
+		  "noOfRooms":"7",
+		   "fromDate":"24-Feb-2016",
+		  "toDate":"28-Feb-2016",
               "roomAmeneties" : [
 			    {
 					"code" : "brk",
@@ -1087,6 +1102,9 @@
 		{
 		 "roomName" : "Comfort",
 		  "roomId" : "room3",
+		  "noOfRooms":"3",
+		   "fromDate":"15-Feb-2016",
+		  "toDate":"20-Feb-2016",
               "roomAmeneties" : [
 			    {
 					"code" : "brk",
