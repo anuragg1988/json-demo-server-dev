@@ -658,6 +658,7 @@
         "hotelUser" : "Joseph",
         "pin" : "11",
         "primaryImage" : "http://www.download3dhouse.com/wp-content/uploads/2013/12/Hotel-lobby-interior-decoration-image.jpg",
+		"pinCode":"411015",
         "roomList" : [
 		{
 		 "roomName" : "Deluxe",
@@ -947,6 +948,7 @@
         "hotelUser" : "Johny",
         "pin" : "12",
         "primaryImage" : "http://www.download3dhouse.com/wp-content/uploads/2013/12/Hotel-lobby-interior-decoration-image.jpg",
+		"pinCode":"411015",
         "roomList" : [
 		{
 		 "roomName" : "Deluxe",
